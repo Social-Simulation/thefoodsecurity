@@ -1,6 +1,8 @@
 ---
 date: 2022-11-26 18:14:00
 title: "The world cannot ignore the global food crisis and its consequences"
+excerpt: This food security crisis is unlike any of the past, as it is the result of multiple major causes.
+thumbnail_in_body: https://wp-img.daozhao.com.cn/thefoodsecurity/article/d14fb34b-badb-4f41-85bb-0d403d72f2c8-GTY_1238828893.webp
 categories:
 - [posts]
 ---

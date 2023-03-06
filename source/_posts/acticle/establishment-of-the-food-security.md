@@ -1,6 +1,8 @@
 ---
 date: 2022-12-08 18:14:00
 title: "IFPRI共同发起成立全球粮食安全青年科学家联盟"
+excerpt: 12月2日晚，全球粮食安全青年科学家联盟成立仪式通过线上线下同步举行，主会场设在华中农业大学。来自全球10多位全球粮食安全领域资深专家学者组成的顾问委员，国际食物政策研究所（IFPRI）转型策略中心主任Channing Agndt博士，华中农业大学校长李召虎，副校长青平，校科发院、人力资源部、国际合作交流部负责人及经济管理学院部分教师代表参加了联盟成立仪式。成立仪式由副校长青平教授主持。
+thumbnail_in_body: https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_1.jfif
 categories:
 - [posts]
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2022-11-26 18:17:00
 title: "Keep calm and trade on: China’s decisive role in agricultural markets under turmoil"
+excerpt: China is the world’s largest consumer and importer of agricultural goods. As a result, its trade strategies influence international markets and affect consumers worldwide. However, rising domestic demand for food and limited land and water resources are posing a particular challenge to China’s food security. This is exacerbated by world market price volatility resulting from recent geopolitical tensions, the Covid-19 pandemic, and extreme weather events caused by climate change. The Chinese government has turned to a range of measures to overcome these challenges, including building up immense strategic reserves. In [IAMO Policy Brief 45](https://www.iamo.de/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_45_EN.pdf) Lena Kuhn, Tinoush Jamali Jaghdani, Sören Prehn, Zhanli Sun and Thomas Glauben take a look at these developments and how they affect global markets.
 categories:
 - [posts]
 ---

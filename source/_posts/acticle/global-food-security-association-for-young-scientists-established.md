@@ -1,6 +1,8 @@
 ---
 date: 2022-12-12 19:22:00
 title: "Global Food Security Association for Young Scientists established"
+excerpt: 12 December 2022 - In the face of present global food security challenges, the Global Food Security Association was formally established on 2nd December, 2022. An international conference after the launching ceremony as well as the 1st Global Food Security Forum for Young Scientists followed.
+thumbnail_in_body: https://wp-img.daozhao.com.cn/thefoodsecurity/article/csm_IAMO-news_bearbeitet_web_18872c8c65.jpg
 categories:
 - [posts]
 ---

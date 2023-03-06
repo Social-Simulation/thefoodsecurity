@@ -1,6 +1,7 @@
 ---
 date: 2022-11-26 18:15:01
 title: "Bringing voluntary carbon offset markets to smallholder Indian farmers"
+excerpt: CIMMYT and ICAR partner to reward Indian farmers for utilizing climate smart agricultural practices.
 categories:
 - [posts]
 ---

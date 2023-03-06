@@ -1,6 +1,7 @@
 ---
 date: 2022-11-26 18:14:01
 title: "Gender-informed policies fundamental for climate change adaptation"
+excerpt: Reducing the gender gap in Ethiopian farming households can enhance climate change adaptation by female-headed households by almost 19%.
 categories:
 - [posts]
 ---
