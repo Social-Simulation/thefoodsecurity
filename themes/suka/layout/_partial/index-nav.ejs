@@ -21,7 +21,7 @@
                                 </li>
                                 <li><a href="/initiative/">Initiative</a>
                                 </li>
-                                <li><a href="/<%= config.category_dir%>/posts/">Blogs</a>
+                                <li><a href="<%= (config.category_dir ? ('/' + config.category_dir) : '')%>/blogs/">Blogs</a>
                                 </li>
                                 <li><a href="/members/">Get Involved</a>
                                 </li>

@@ -2,7 +2,7 @@
 date: 2022-12-12 19:22:00
 title: "Global Food Security Association for Young Scientists established"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Global Food Security Association for Young Scientists established ###

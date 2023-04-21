@@ -2,7 +2,7 @@
 date: 2022-11-26 18:18:00
 title: "Hungry for Gender Equality: Second annual Global Food 50/50 Report"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Hungry for Gender Equality: Second annual Global Food 50/50 Report ###

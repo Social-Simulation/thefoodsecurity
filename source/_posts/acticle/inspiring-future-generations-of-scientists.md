@@ -2,7 +2,7 @@
 date: 2022-12-12 21:45:00
 title: "Inspiring future generations of scientists"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Inspiring future generations of scientists ###

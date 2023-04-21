@@ -2,7 +2,7 @@
 date: 2022-11-26 18:17:00
 title: "Keep calm and trade on: China’s decisive role in agricultural markets under turmoil"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Keep calm and trade on: China’s decisive role in agricultural markets under turmoil ###

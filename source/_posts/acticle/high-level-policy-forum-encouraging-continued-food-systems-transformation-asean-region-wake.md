@@ -2,7 +2,7 @@
 date: 2022-11-26 18:15:00
 title: "High level policy forum: Encouraging continued food systems transformation in the ASEAN region in the wake of COVID-19"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### High level policy forum: Encouraging continued food systems transformation in the ASEAN region in the wake of COVID-19 ###

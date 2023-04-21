@@ -2,7 +2,7 @@
 date: 2022-11-26 18:14:01
 title: "Gender-informed policies fundamental for climate change adaptation"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Gender-informed policies fundamental for climate change adaptation ###

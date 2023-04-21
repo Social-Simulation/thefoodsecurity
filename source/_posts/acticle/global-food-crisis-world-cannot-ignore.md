@@ -2,7 +2,7 @@
 date: 2022-11-26 18:14:00
 title: "The world cannot ignore the global food crisis and its consequences"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### The world cannot ignore the global food crisis and its consequences ###

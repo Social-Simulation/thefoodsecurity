@@ -2,7 +2,7 @@
 date: 2022-11-26 18:16:00
 title: "Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis"
 categories:
-- [posts]
+- [blogs]
 ---
 
 ### Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis ###
