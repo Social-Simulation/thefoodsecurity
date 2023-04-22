@@ -1,6 +1,7 @@
 ---
 date: 2022-11-26 18:18:00
 title: "Hungry for Gender Equality: Second annual Global Food 50/50 Report"
+excerpt: Around the world, women play a key role in every part of the food system, but their contributions are often undervalued, underpaid, and overlooked. Women and girls also face a disproportionate burden from shocks, such as those driven by the COVID-19 pandemic and the current food and cost-of-living crisis. Women and girls are more likely to face food insecurity and malnutrition—in 2021, at least 126 million more women than men experienced food insecurity, a gap that continues to grow.
 categories:
 - [blogs]
 ---

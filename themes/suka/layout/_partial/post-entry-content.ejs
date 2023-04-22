@@ -2,13 +2,32 @@
     <h2 class="h5 mb-0 card-header"><a class="card-title" href="<%= url_for(post.path) %>" rel="bookmark"><%- post.title %></a></h2>
 <% } %>
 
-<p class="mb-0 card-body">
-    <% if (post.excerpt) {%>
-        <%- strip_html(post.excerpt) %>
-    <% } else { %>
-        <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
-    <% } %><a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
-</p>
+<% if (post.thumbnail_in_body) {%>
+    <div class="mb-0 card-body flex">
+        <div class="col-4">
+            <a href="<%= url_for(post.path) %>">
+                <div class="post-thumbnail lazyload" data-bg="url(<%= post.thumbnail_in_body %>)"></div>
+            </a>
+        </div>
+        <div class="col-8">
+            <% if (post.excerpt) {%>
+                <%- strip_html(post.excerpt) %>
+            <% } else { %>
+                <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
+            <% } %>
+            <a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
+        </div>
+    </div>
+<% } else {%>
+    <p class="mb-0 card-body">
+        <% if (post.excerpt) {%>
+            <%- strip_html(post.excerpt) %>
+        <% } else { %>
+            <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
+        <% } %>
+        <a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
+    </p>
+<% } %>
 
 <%
     const lazyloadImgSrc = (theme.vendors.lazyload_img) ? theme.vendors.lazyload_img : url_for('img/suka-lazyload.gif');

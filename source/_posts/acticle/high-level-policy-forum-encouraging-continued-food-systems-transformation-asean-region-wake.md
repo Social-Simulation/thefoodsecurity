@@ -1,6 +1,7 @@
 ---
 date: 2022-11-26 18:15:00
 title: "High level policy forum: Encouraging continued food systems transformation in the ASEAN region in the wake of COVID-19"
+excerpt: Association of Southeast Asian Nations (ASEAN) member states (AMS) have experienced rapid economic growth in recent years, and with their work toward food systems transformation have made significant progress toward meeting Sustainable Development Goal 2 (SDG2) targets of ending hunger, food insecurity, and malnutrition by 2030. Yet many food system challenges remain, driven by effects of the COVID-19 pandemic, rising global food prices, and other problems. ASEAN food value chains are growing more internationalized in an environment of global economic stresses and uncertainty, raising questions about how best to achieve structural change.
 categories:
 - [blogs]
 ---

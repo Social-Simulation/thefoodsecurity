@@ -1,6 +1,7 @@
 ---
 date: 2022-12-12 21:45:00
 title: "Inspiring future generations of scientists"
+excerpt: The Global Food Security Forum for Young Scientists, hosted at Huazhong Agricultural University in China and virtually around the world, highlights cutting-edge agricultural research.
 categories:
 - [blogs]
 ---
