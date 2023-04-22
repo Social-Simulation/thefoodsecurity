@@ -326,32 +326,85 @@ header .divider {
     margin-right: auto;
 }
 
-@media screen and (min-width: 481px) {
-    .main-container {
-        padding-right: .5rem;
-        padding-left: .5rem;
-        max-width: calc(100vw - .5rem);
-    }
+/* 分类列表 */
+.category-box {
+    display: flex;
+}
+.category-box .year-box {
+    padding: 12px;
 }
 
-@media screen and (min-width: 721px) {
-    .main-container {
-        max-width: 41.4rem;
-        padding-right: 1rem;
-        padding-left: 1rem;
-    }
+.category-nav {
+    width: 240px;
+    padding: 16px;
+    box-shadow: 5px 1px 8px 0px rgba(0,0,0,.3);
+    height: fit-content;
+    padding-bottom: 300px;
+}
+.category-nav .category-title {
+    padding-left: 18px;
+    font-weight: 600;
+    font-size: 17px;
+}
+.category-nav .category-title .category-icon {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+.category-nav .category-title .category-text {
+    margin-left: 10px;
 }
 
-@media screen and (min-width: 961px) {
-    .main-container {
-        max-width: 36rem;
-    }
+.category-content {
+    flex: 1;
+}
+.category-content .post-stream-container #post-card {
+    min-height: calc( 100vh - 230px );
 }
 
-@media screen and (min-width: 1335px) {
-    .main-container {
-        max-width: 48rem;
-    }
+.year_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.year_wrapper .category_year {
+    position: relative;
+}
+.year_wrapper .category_year:before {
+    position: absolute;
+    content: ' ';
+    width: 100%;
+    border-top: 1px solid #d1d1d1;
+    top: 0;
+    left: 0;
+}
+
+.year_wrapper .category_year-a {
+    display: inline-block;
+    width: 100%;
+    margin: 4px 0;
+    padding: 10px 30px;
+    font-size: 15px;
+    color: unset;
+    position: relative;
+}
+.year_wrapper .category_year-a:after {
+    position: absolute;
+    content: ' ';
+    top: 50%;
+    transform: translateY(-50%);
+    right: 2px;
+    border-width: 4px 4px 4px 7px;
+    border-style: solid;
+    border-color: transparent transparent transparent #d1d1d1;
+}
+.year_wrapper .category_year-a.active,.category_year-a:hover {
+    background: #4e1364;
+    color: #fff;
+}
+.year_wrapper .category_year-a.active:after,.category_year-a:hover:after {
+    border-color: transparent transparent transparent #ffffff;
 }
 
 .post-stream-container {
@@ -467,21 +520,15 @@ header .divider {
 
 @media screen and (min-width: 721px) {
     .post-container {
-        max-width: 41.4rem;
+        max-width: 56rem;
         padding-right: 1rem;
         padding-left: 1rem;
     }
 }
 
-@media screen and (min-width: 961px) {
-    .post-container {
-        max-width: 36rem;
-    }
-}
-
 @media screen and (min-width: 1281px) {
     .post-container {
-        max-width: 48rem;
+        max-width: 64rem;
     }
 }
 
@@ -1476,7 +1523,7 @@ a.timeline-tile-title span:hover {
 
 @media screen and (min-width: 721px) {
     .h_nav-section {
-        max-width: 41.4rem;
+        max-width: 56rem;
         padding-right: 1rem;
         padding-left: 1rem;
     }
@@ -1484,7 +1531,7 @@ a.timeline-tile-title span:hover {
 
 @media screen and (min-width: 1281px) {
     .h_nav-section {
-        max-width: 48rem;
+        max-width: 64rem;
     }
 }
 
@@ -1506,6 +1553,9 @@ a.timeline-tile-title span:hover {
 
 .h_nav_tree {
     font-size: 11px;
+}
+.h_nav_tree .first {
+    display: table;
 }
 .h_nav_tree .first>li {
     height: 42px;
@@ -1676,6 +1726,11 @@ a.timeline-tile-title span:hover {
 }
 
 @media screen and (min-width: 481px) {
+    .main-container {
+        padding-right: .5rem;
+        padding-left: .5rem;
+        max-width: calc(100vw - .5rem);
+    }
     .h_nav_tree {
         font-size: 14px;
     }
@@ -1698,6 +1753,11 @@ a.timeline-tile-title span:hover {
     }
 }
 @media screen and (min-width: 721px) {
+    .main-container {
+        max-width: 56rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
     .h_nav_tree .first>li {
         padding: 0 20px;
     }
@@ -1722,7 +1782,10 @@ a.timeline-tile-title span:hover {
         display: flex;
     }
 }
-@media screen and (min-width: 1290px) {
+@media screen and (min-width: 1281px) {
+    .main-container {
+        max-width: 64rem;
+    }
     .h_nav_tree {
         font-size: 16px;
     }

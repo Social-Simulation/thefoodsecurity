@@ -1,3 +1,10 @@
+---
+date: 2022-12-25 15:15:01
+title: "2022年全球粮食安全青年科学家论坛"
+categories:
+- [events, 2022]
+---
+
 ![image.png](https://wp-img.daozhao.com.cn/thefoodsecurity/event1.png)
 
 ![image.png](https://wp-img.daozhao.com.cn/thefoodsecurity/event2.png)

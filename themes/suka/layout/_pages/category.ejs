@@ -5,14 +5,74 @@
             <% if (theme._showCategoryTitle) { %>
                 <h2 class="page-title"><%= __("category") + " : " + page.category %></h2>
             <%}%>
-            <!-- # Post List # -->
-            <div class="post-stream-container">
-                <% page.posts.sort('date', -1).each(function(post){ %>
-                    <div class="grid-item">
-                        <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+            <%
+            let pathList = page.path.split('/');
+            let categoryIndex = pathList.indexOf(page.category)
+            let categoryParent = pathList[categoryIndex - 1];
+            let yearList = [];
+            if(/^\d{4}$/.test(page.category)) {
+                let postsList = site.posts.sort('date', -1).filter(function (post) {
+                    let flag = false;
+                    post.categories.each(function (it, index) {
+                        if(categoryParent === it.name){
+                            flag = true
+                        }
+                    })
+                    return flag;
+                })
+                postsList.each(function (post){
+                    let categoryYear = ''
+                    post.categories.each(function (it, index) {
+                        if(/^\d{4}$/.test(it.name)){
+                            categoryYear = it.name
+                        }
+                    })
+                    if (categoryYear && !yearList.includes(categoryYear)) {
+                        yearList.push(categoryYear)
+                    }
+                })
+            }
+
+            %>
+            <%
+            if (yearList.length > 0) {%>
+            <div class="category-box">
+                <div class="category-nav">
+                    <div class="category-title">
+                        <span class="category-icon"></span>
+                        <span class="category-text">青年科学家论坛</span>
                     </div>
-                <% }) %>
+                    <div class="year_wrapper">
+                        <%
+                        yearList.forEach(function (year) {%>
+                            <div class="category_year">
+                                <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>" class="category_year-a <%- year === page.category ? 'active' : ''%>">Forum <%- year%></a>
+                            </div>
+                        <% }) %>
+                        %>
+                    </div>
+                </div>
+                <div class="category-content">
+                    <!-- # Post List # -->
+                    <div class="post-stream-container">
+                        <% page.posts.sort('date', -1).each(function(post){ %>
+                            <div class="grid-item">
+                                <%- partial('_pages/post', { post: post, page: post, index: true, pin: false }) %>
+                            </div>
+                        <% }) %>
+                    </div>
+                </div>
             </div>
+            <%} else { %>
+                <!-- # Post List # -->
+                <div class="post-stream-container">
+                    <% page.posts.sort('date', -1).each(function(post){ %>
+                        <div class="grid-item">
+                            <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+                        </div>
+                    <% }) %>
+                </div>
+           <% } %>
         </main>
         <%- partial('_partial/pagination') %>
     </div>
