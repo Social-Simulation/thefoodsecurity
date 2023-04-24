@@ -356,12 +356,41 @@ header .divider {
 .category-nav .category-title .category-text {
     margin-left: 10px;
 }
-
-.category-content {
+.category-content-container {
     flex: 1;
+    margin-left: 1rem;
+    border: 1px solid rgba(0,0,0,.125);
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
 }
+.category-content-location-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1rem 0.4rem 1rem;
+    font-weight: 600;
+}
+
+.category-content-location-container .category-content-title {
+    color: #4e1364
+}
+.category-content-location-container .category-content-location {
+    font-size: 15px;
+    color: #b2b1b1;
+}
+.category-content-location-container .category-content-location a {
+    color: #b2b1b1
+}
+
+.category-content-blank {
+    height: 10px;
+    background: #f4f4f4;
+    margin: 0 1rem;
+}
+
 .category-content .post-stream-container #post-card {
     min-height: calc( 100vh - 230px );
+    box-shadow: none; /* 由category-content-container实现边框效果 */
+    border: none;
 }
 
 .year_wrapper {

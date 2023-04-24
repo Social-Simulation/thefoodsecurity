@@ -8,6 +8,8 @@
 # You should copy them and paste them to the end of your site config file!
 # Read the documents for more info.
 # ---------------------------------------------------------------
+_events_2022_alias: 'Forum 2022'
+_events_2023_alias: 'Forum 2023'
 
 # ---------------------------------------------------------------
 # Site Information Settings
