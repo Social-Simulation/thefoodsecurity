@@ -22,7 +22,7 @@ module.exports = function (hexo) {
                 title += `: ${page.year}`;
             }
         } else if (this.is_category()) {
-            title = hexo.config._superCategories.includes(page.category) ? '' : `${this.__('category')}: ${page.category}`;
+            title = new RegExp(hexo.config._superCategoriesRegexStr).test(page.path) ? '' : `${this.__('category')}: ${page.category}`;
         } else if (this.is_tag()) {
             title = `${this.__('tag')}: ${page.tag}`;
         }
