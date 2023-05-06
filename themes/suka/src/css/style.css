@@ -429,7 +429,7 @@ header .divider {
     border-color: transparent transparent transparent #d1d1d1;
 }
 .year_wrapper .category_year-a.active,.category_year-a:hover {
-    background: #4e1364;
+    background: #196ec3;
     color: #fff;
 }
 .year_wrapper .category_year-a.active:after,.category_year-a:hover:after {
