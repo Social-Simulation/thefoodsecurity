@@ -738,7 +738,14 @@ a.category-link {
  * ************   Post Content: markdown css   ************
  * =========================================================
  */
-
+#post-card .card-title {
+    padding: 1.2rem 0 0 0;
+    margin: 0 auto;
+    max-width: 92%;
+}
+.card-title h1 {
+    font-size: 1.5rem;
+}
 #post-card .card-body {
     padding: 1.2rem 0;
     margin: 0 auto;
@@ -754,7 +761,9 @@ a.category-link {
     padding-top: 0;
     padding-bottom: 1.8rem;
 }
-
+#post-content.indent {
+    text-indent: 2em;
+}
 #post-content .octicon {
     display: inline-block;
     vertical-align: text-top;

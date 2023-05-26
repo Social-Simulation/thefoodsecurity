@@ -11,6 +11,11 @@
                         <%- partial('_partial/post/header-info') %>
                     </div>
                 <% } %>
+                <% if (page._showPostTitle) { %>
+                    <div class="card-title">
+                        <h1><%- page.title %></h1>
+                    </div>
+                <% } %>
                 <div class="card-body">
                     <% if (theme.toc.enable && (page.toc === true) ) { %>
                         <% const toc_obj = toc(page.content, {
@@ -21,7 +26,7 @@
                             <div id="post-toc"><%- toc_obj %></div>
                         <% } %>
                     <% } %>
-                    <article id="post-content">
+                    <article id="post-content" class="<%- page._showPostIndent ? 'indent' : ''%>">
                         <%- page.content %>
                     </article>
                     <%- partial('_partial/post/footer-info') %>
