@@ -36,6 +36,6 @@ title: Members of the Association
 | Yanjun Ren          | Northwest A&F Univ.                        | Yawotse Nouve          |  Univ. of Georgia |
 | Youhua Chen         | South China Agricultural Univ.             | Yueqing Ji             |  Nanjing Agricultural Univ. |
 | Zhigang Xu          | Nanjing Agricultural Univ.                 | Zhuang Hao             |  HZAU | 
-| Puneet Vatsa        | Lincoln Univ.                              |
+| Puneet Vatsa        | Lincoln Univ.                              | Jieying Bi | IAED |
 
 #### [Apply for membership](/registration) ####
