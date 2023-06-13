@@ -37,5 +37,6 @@ title: Members of the Association
 | Youhua Chen         | South China Agricultural Univ.             | Yueqing Ji             |  Nanjing Agricultural Univ. |
 | Zhigang Xu          | Nanjing Agricultural Univ.                 | Zhuang Hao             |  HZAU | 
 | Puneet Vatsa        | Lincoln Univ.                              | Jieying Bi | IAED |
+| Xiaoxi Wang         | Zhejiang Univ.                             |  |  |
 
 #### [Apply for membership](/registration) ####
