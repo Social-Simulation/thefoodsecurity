@@ -82,7 +82,7 @@ Selected outstanding papers will be invited to submit the full paper to the foll
 | 27-29 October 2023 | The 2023 Forum sessions                      |
 
 #### Conference Registration
-More details about the registration will be released on the website of Global Food Security Forum for Young Scientist (https://thefoodsecurity.org/) Soon.
+Please register for the forum by clicking on the following link: [https://www.wjx.top/vm/mbF6RXk.aspx#](https://www.wjx.top/vm/mbF6RXk.aspx#)
 
 #### Contact
 Please feel free to contact the office of Global Food Security Association for Young Scientists via email: fs@hzau.edu.cn for any questions and suggestions. We look forward to seeing you in Wuhan this Fall!
