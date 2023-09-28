@@ -86,3 +86,36 @@ Please register for the forum by clicking on the following link: [https://www.wj
 
 #### Contact
 Please feel free to contact the office of Global Food Security Association for Young Scientists via email: fs@hzau.edu.cn for any questions and suggestions. We look forward to seeing you in Wuhan this Fall!
+
+#### Keynote Speaker (in alphabetical order)
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Kevin_Chen.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">
+Kevin Chen, Professor at Zhejiang University and Senior Research Fellow at IFPRI
+</p>
+
+<p style="text-align: justify;">
+Dr. Kevin Chen is Chair Professor of China Academy for Rural Development at Zhejiang University and Senior Research Fellow at the International Food Policy Research Institute. He serves as a member of the independent expert group, Global Nutrition Report. He is currently co-editor of China Agricultural Economic Review and managing editor of the journal International Food and Agribusiness Management Review. His research interests focus on agri-food value chain development, public policies on poverty, modeling agricultural markets, and South-South cooperation on agriculture.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Prasanna Boddupalli, Maize Program Director at CIMMYT</p>
+
+<p style="text-align: justify;">
+Dr. Prasanna is the Maize Program Director at CIMMYT. Dr. Prasanna provides technical oversight for an array of multi-institutional projects on the development and deployment of elite, stress-resilient and nutritionally enriched maize varieties in the tropics of sub-Saharan Africa, Asia, and Latin America, besides the application of novel tools and technologies for enhancing genetic gains and breeding efficiency. Dr. Prasanna has published over 200 research articles in various international journals and received several awards and recognitions.
+</p>
+
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Thomas_Glauben.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Thomas Glauben, Director of IAMO</p>
+<p style="text-align: justify;">
+Prof. Dr. Dr. h. c.  is a Director of IAMO and Head of the Department Agricultural Markets. He is also a full professor at the Faculty of Natural Science III and a co-opted professor at the Law and Economics Faculty of the Martin Luther University Halle-Wittenberg, Germany. From 2013 to 2015, he has been a member of the Presidium of the Leibniz Association. Currently, he is a member of the boards of various journals and trade publishers. Since 2007 he has been an associate member of the REAP Center of Stanford University, USA.
+</p>
