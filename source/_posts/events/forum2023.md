@@ -90,7 +90,7 @@ Please feel free to contact the office of Global Food Security Association for Y
 #### Keynote Speaker (in alphabetical order)
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
 </div>
 
 <p class="post_flex_center_center" style="font-weight: bold">Prasanna Boddupalli, Maize Program Director at CIMMYT</p>
@@ -100,7 +100,7 @@ Dr. Prasanna is the Maize Program Director at CIMMYT. Dr. Prasanna provides tech
 </p>
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Kevin_Chen.jpg">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Kevin_Chen.jpg">
 </div>
 
 <p class="post_flex_center_center" style="font-weight: bold">
@@ -112,7 +112,7 @@ Dr. Kevin Chen is Chair Professor of China Academy for Rural Development at Zhej
 </p>
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Thomas_Glauben.png">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Thomas_Glauben.png">
 </div>
 
 <p class="post_flex_center_center" style="font-weight: bold">Thomas Glauben, Director of IAMO</p>
