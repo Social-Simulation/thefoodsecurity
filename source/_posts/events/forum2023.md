@@ -88,6 +88,17 @@ Please register for the forum by clicking on the following link: [https://www.wj
 Please feel free to contact the office of Global Food Security Association for Young Scientists via email: fs@hzau.edu.cn for any questions and suggestions. We look forward to seeing you in Wuhan this Fall!
 
 #### Keynote Speaker (in alphabetical order)
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Prasanna Boddupalli, Maize Program Director at CIMMYT</p>
+
+<p style="text-align: justify;">
+Dr. Prasanna is the Maize Program Director at CIMMYT. Dr. Prasanna provides technical oversight for an array of multi-institutional projects on the development and deployment of elite, stress-resilient and nutritionally enriched maize varieties in the tropics of sub-Saharan Africa, Asia, and Latin America, besides the application of novel tools and technologies for enhancing genetic gains and breeding efficiency. Dr. Prasanna has published over 200 research articles in various international journals and received several awards and recognitions.
+</p>
+
 <div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Kevin_Chen.jpg">
 </div>
@@ -101,18 +112,7 @@ Dr. Kevin Chen is Chair Professor of China Academy for Rural Development at Zhej
 </p>
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
-</div>
-
-<p class="post_flex_center_center" style="font-weight: bold">Prasanna Boddupalli, Maize Program Director at CIMMYT</p>
-
-<p style="text-align: justify;">
-Dr. Prasanna is the Maize Program Director at CIMMYT. Dr. Prasanna provides technical oversight for an array of multi-institutional projects on the development and deployment of elite, stress-resilient and nutritionally enriched maize varieties in the tropics of sub-Saharan Africa, Asia, and Latin America, besides the application of novel tools and technologies for enhancing genetic gains and breeding efficiency. Dr. Prasanna has published over 200 research articles in various international journals and received several awards and recognitions.
-</p>
-
-
-<div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Thomas_Glauben.jpg">
+<img style="width: 100px;border-radius: 50%;margin-bottom: 12px;" src="/img/Thomas_Glauben.png">
 </div>
 
 <p class="post_flex_center_center" style="font-weight: bold">Thomas Glauben, Director of IAMO</p>
