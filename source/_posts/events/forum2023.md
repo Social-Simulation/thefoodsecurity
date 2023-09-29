@@ -119,3 +119,23 @@ Dr. Kevin Chen is Chair Professor of China Academy for Rural Development at Zhej
 <p style="text-align: justify;">
 Prof. Dr. Dr. h. c.  is a Director of IAMO and Head of the Department Agricultural Markets. He is also a full professor at the Faculty of Natural Science III and a co-opted professor at the Law and Economics Faculty of the Martin Luther University Halle-Wittenberg, Germany. From 2013 to 2015, he has been a member of the Presidium of the Leibniz Association. Currently, he is a member of the boards of various journals and trade publishers. Since 2007 he has been an associate member of the REAP Center of Stanford University, USA.
 </p>
+
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Zhanli_Sun.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Zhanli Sun, Research Associate at IAMO</p>
+<p style="text-align: justify;">
+Dr. Sun is a Research Associate in the Department Structural Change. At IAMO, he also coordinates the activities of the China International Research Group. His research focuses on land system change with various analytical and simulating models, including agent-based modeling, system dynamics, and Bayesian networks. He co-developed LEAM land-use simulation model at the University of Illinois Urbana-Champaign, USA.
+</p>
+
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Xuecai_Zhang.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Xuecai Zhang, Maize Molecular Breeder for Latin America at CIMMYT</p>
+<p style="text-align: justify;">
+Dr. Zhang is a scientist and maize molecular breeder based in Mexico with CIMMYT’s Global Maize Program. He implements modern molecular breeding applications to improve the efficiency of the Latin American maize breeding programs by dissecting the genetic architecture of the major maize complex traits including disease resistance, abiotic stress tolerance, and nutritional quality improvement. He also coordinates the work of mainstreaming genomic selection approaches in CIMMYT’s maize breeding pipeline globally.
+</p>
