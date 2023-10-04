@@ -117,7 +117,7 @@ Dr. Kevin Chen is Chair Professor of China Academy for Rural Development at Zhej
 
 <p class="post_flex_center_center" style="font-weight: bold">Thomas Glauben, Director of IAMO</p>
 <p style="text-align: justify;">
-Prof. Dr. Dr. h. c.  is a Director of IAMO and Head of the Department Agricultural Markets. He is also a full professor at the Faculty of Natural Science III and a co-opted professor at the Law and Economics Faculty of the Martin Luther University Halle-Wittenberg, Germany. From 2013 to 2015, he has been a member of the Presidium of the Leibniz Association. Currently, he is a member of the boards of various journals and trade publishers. Since 2007 he has been an associate member of the REAP Center of Stanford University, USA.
+Prof. Dr. Dr. h. c. Thomas Glauben is a Director of IAMO and Head of the Department Agricultural Markets. He is also a full professor at the Faculty of Natural Science III and a co-opted professor at the Law and Economics Faculty of the Martin Luther University Halle-Wittenberg, Germany. From 2013 to 2015, he has been a member of the Presidium of the Leibniz Association. Currently, he is a member of the boards of various journals and trade publishers. Since 2007 he has been an associate member of the REAP Center of Stanford University, USA.
 </p>
 
 
