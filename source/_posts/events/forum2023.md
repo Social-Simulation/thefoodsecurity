@@ -90,6 +90,16 @@ Please feel free to contact the office of Global Food Security Association for Y
 #### Keynote Speaker (in alphabetical order)
 
 <div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Junfei_Bai.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Junfei Bai, Professor at China Agricultural University</p>
+
+<p style="text-align: justify;">
+Junfei Bai is a Professor and Doctoral Supervisor at the School of Economics and Management, China Agricultural University. He is also the Chief Expert at the Beijing Food Safety Policy and Strategy Research Center and the Founder of the Center for Food and Health Economics Research (C'FHER) at the School of Economics and Management, China Agricultural University, where he serves as the first Executive Director. His main research areas include consumer and health economics, food safety and policy, and resource economics and sustainable development. He has led 5 key projects, general projects, and youth projects funded by the National Natural Science Foundation, as well as over 30 projects at the provincial and ministerial level, and international cooperative research projects.
+</p>
+
+<div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Prasanna_Boddupalli.jpg">
 </div>
 
@@ -130,6 +140,32 @@ Prof. Dr. Dr. h. c. Thomas Glauben is a Director of IAMO and Head of the Departm
 Dr. Sun is a Research Associate in the Department Structural Change. At IAMO, he also coordinates the activities of the China International Research Group. His research focuses on land system change with various analytical and simulating models, including agent-based modeling, system dynamics, and Bayesian networks. He co-developed LEAM land-use simulation model at the University of Illinois Urbana-Champaign, USA.
 </p>
 
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Johan_Swinnen.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Johan Swinnen, the Director General of IFPRI</p>
+<p style="text-align: justify;">
+Johan Swinnen has served as the Director general of the International Food Policy Research Institute since January 2020 and Managing Director, Systems Transformation, CGIAR, since July 2022. He is a member of the Advisory Committee on Voluntary Foreign Aid, USAID; Commissioner in the Food Systems Economics Commission; Representative in the High-Level Executive Committee of the IPC; Co-chair of the Think20 Task Force on Food Security and Sustainable Agriculture; and also a member of the Champions 12.3 Leadership Group to Reduce Food Loss and Waste and of the Africa Europe Strategic Task Force on Sustainable Agriculture and Food Systems. Prior to joining IFPRI, Dr. Swinnen was professor of economics and Director of the LICOS Centre for Institutions and Economic Performance at KU Leuven (Belgium) and Senior Research Fellow at the Centre for European Policy Studies in Brussels.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Maximo_Torero.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Máximo Torero, Chief Economist of FAO</p>
+<p style="text-align: justify;">
+Mr. Maximo Torero Cullen is the Chief Economist of the Food and Agriculture Organization (FAO). He joined the Organization in January 2019 as Assistant Director-General for the Economic and Social Development Department. Prior to joining FAO, he was the World Bank Group Executive Director for Argentina, Bolivia, Chile Paraguay, Peru and Uruguay since November 2016 and before the Bank Mr. Torero led the Division of the Markets, Trade, and Institutions at the International Food Policy Research Institute. His major research work lies mostly in analyzing poverty, inequality, importance of geography and assets in explaining poverty, and in policies oriented towards poverty alleviation based on the role played by infrastructure, institutions, and on how technological breakthroughs can improve the welfare of households and small farmers.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Hang_Xiong.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Hang Xiong, Professor at Huazhong Agricultural University</p>
+<p style="text-align: justify;">
+Hang Xiong is the Secretary-general of Global Food Security Association for Young Scientists. He is a professor of Economics at College of Economics and Management of HZAU and the Depute Dean of Macro Agriculture Research Institute. Prior to joining HZAU, Xiong was a research fellow at Agricultural Economics and Policy Group in ETH Zurich and Department of Geography in King's College London. His research interest focuses on understanding individuals' decision-making behavior and evaluating public policies using a social simulation approach. He published papers on prestigious journals in social simulation and agricultural economics fields. He also serves on editorial boards of three influential journals.
+</p>
 
 <div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Xuecai_Zhang.jpg">
