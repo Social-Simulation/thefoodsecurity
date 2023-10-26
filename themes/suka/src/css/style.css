@@ -808,7 +808,14 @@ a.category-link {
 #post-content blockquote a {
     word-break: break-all;
 }
-
+#post-content .like_a {
+    border-bottom: 1px solid #005eb9;
+    cursor: pointer;
+}
+#post-content .like_a a,
+#post-content .like_a a:hover{
+    text-decoration: none;
+}
 #post-content a:hover {
     text-decoration: underline;
 }
