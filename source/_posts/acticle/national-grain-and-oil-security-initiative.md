@@ -12,7 +12,7 @@ categories:
 
 李谷成表示，面临全球百年之变局，粮油安全问题显得更加紧迫和重要。要建设农业强国，就必须把“油瓶子”端得更牢更稳，必须持续扩大种植面积，提高单产，增强产能，提高产业链韧性，确保粮油稳产保供。“国际供应链短板和较低的自给率直接对我国不断增长的食用植物油和动物饲料需求构成重大挑战。” 李谷成、冷博峰认为，要建设农业强国，必须把“油瓶子”端得更牢更稳。
 
- <p class="post_flex_center_center post_flex_p">
+ <p class="mdh-post_flex_center_center mdh-post_flex_center">
      <img src="https://img3.chinadaily.com.cn/images/202305/17/64649757a3105379f5718ecc.png" alt="" />
  </p>
 

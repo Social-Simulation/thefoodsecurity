@@ -37,7 +37,7 @@ This is a multi-year crisis. Due to the many factors at play and the need for mu
 The U.S. government is engaged with a multi-year strategy that seeks to create food systems that are inclusive, resilient, and sustainable. We have expanded Feed the Future, the U.S. government’s flagship global hunger and food security initiative, to eight new countries, all in Africa. The United States is providing support to institutions such as the International Maize and Wheat Improvement Center, which are contributing significantly to global food security. The Center’s drought-tolerant corn is now planted on 17 million acres in Africa.
 
 ![](https://wp-img.daozhao.com.cn/thefoodsecurity/article/d14fb34b-badb-4f41-85bb-0d403d72f2c8-GTY_1238828893.webp)
-<p class="_image_caption">People wait in a line with groceries at the supermarket on Feb. 28, 2022 in Kyiv, Ukraine.<span class="extra">Anastasia Vlasova, Getty Images</span></p>
+<p class="mdh-post_image_caption">People wait in a line with groceries at the supermarket on Feb. 28, 2022 in Kyiv, Ukraine.<span class="extra">Anastasia Vlasova, Getty Images</span></p>
 
 We must ensure that all crops important to food security receive adequate research funding and are “climate ready” to increase production, provide more farmer income, better nutrition, and heightened resilience both to weather extremes and geopolitical shocks. This makes humanitarian and economic sense and is in everyone’s self-interest. Ask any farmer anywhere.
 
@@ -48,6 +48,6 @@ Strengthening global food systems not only advances peace abroad but also helps 
 When we choose to invest in global food security, we all benefit. In joining world leaders at the United Nations to address food insecurity, we will leverage our investment and put America in the lead where it must be.
 
 ![](https://wp-img.daozhao.com.cn/thefoodsecurity/article/77a54f58-5e24-40bb-9b09-42f4693d3a20-Cary_Fowler2007_2236237.webp)
-<p class="_image_caption">February 2008 - Cary Fowler, a 1967 White Station High School graduate, not far from the arctic seed vault near Svalbard, Norway.<span class="extra">CommercialAppeal.com</span></p>
+<p class="mdh-post_image_caption">February 2008 - Cary Fowler, a 1967 White Station High School graduate, not far from the arctic seed vault near Svalbard, Norway.<span class="extra">CommercialAppeal.com</span></p>
 
 Cary Fowler is U.S. special envoy for global food security.

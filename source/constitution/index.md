@@ -2,25 +2,25 @@
 title: Constitution
 ---
 
- <h3 class="post_flex_center_center">
+ <h3 class="mdh-post_flex_center_center">
    CONSTITUTION OF GLOBAL FOOD SECURITY ASSOCIATION FOR YOUNG SCIENTISTS
  </h3>
- <div class="post_flex_center_center">
+ <div class="mdh-post_flex_center_center">
      (Draft for discussion)
  </div>
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅰ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      NAME.
  </div>
 
 This Society shall be known as the Global Food Security Association for Young Scientists.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅱ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      OBJECTS.
  </div>
 
@@ -30,10 +30,10 @@ This Society shall be known as the Global Food Security Association for Young Sc
 4.Promoting mentorship and skills of youth scientists’ development by providing a platform and putting young at the forefront of research and project activities.
 5.Taking the initiative to improve the global vision of young scientists and their sense of responsibility for promoting the common development of all mankind, and strive to become competent, compassionate young leaders who are committed to promoting world peace and development.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅲ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      MEMBERSHIP.
  </div>
 
@@ -41,10 +41,10 @@ This Society shall be known as the Global Food Security Association for Young Sc
 2.Honorary membership, which should be offered to those who have distinguished themselves in the field of food security and agricultural development.
 3.Every member is entitled to receive, as they appear, all reports and publications of the Association. Participate in the activities organized by the Association, including annual meetings, academic forums, symposia and seminars.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅳ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      OFFICERS.
  </div>
 
@@ -52,10 +52,10 @@ This Society shall be known as the Global Food Security Association for Young Sc
 2.One of the members of the Secretariat shall be the Treasurer of the Association.
 3.The Executive Committee shall consist of the incumbent president and vice-presidents, three representatives of the secretariat, the ex-presidents, and three elected members.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅴ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      DUTIES OF OFFICERS.
  </div>
 
@@ -66,10 +66,10 @@ This Society shall be known as the Global Food Security Association for Young Sc
 5.The Executive Committee shall act as a committee on time and place of meeting, and perform such other duties as the Association shall delegate to it.
 6.A quorum shall consist of five members, other than the Vice-Presidents and the Ex-Presidents.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅵ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      ANNUAL MEETINGS.
  </div>
 
@@ -78,10 +78,10 @@ This Society shall be known as the Global Food Security Association for Young Sc
 3.The Executive Committee shall meet during each annual meeting at some time before the annual business meeting.
 4.The conduct of all annual meetings and of the business meetings of the Executive Committee shall be governed by the local regulations and rules where the meeting takes place, except as otherwise specified in this Constitution.
 
- <div class="post_flex_center_center p_mt16_p p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_mt16 mdh-post_bold">
      ARTICLE Ⅶ
  </div>
- <div class="post_flex_center_center p_bold">
+ <div class="mdh-post_flex_center_center mdh-post_bold">
      AMENDMENTS.
  </div>
 

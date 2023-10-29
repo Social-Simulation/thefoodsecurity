@@ -12,7 +12,7 @@ categories:
 
 熊航表示，当前，人工智能、大数据等新兴技术在以前所未有的力度变革农业，不仅极大地提高了农业生产操作的效率，而且推动农业经营决策方式从以经验为基础的决策向数据驱动的智能化决策转变。“在农业农村数字化和智能化背景下，我国加快建设农业强国正当其时。”熊航认为，当下需要更加重视补齐关键科技短板、激发各类要素活力，努力提升中国农业的国际竞争力。
 
- <p class="post_flex_center_center post_flex_p">
+ <p class="mdh-post_flex_center_center mdh-post_flex_center">
      <img src="https://img3.chinadaily.com.cn/images/202305/04/645346e8a3105379f5712c26.jpeg" alt="" />
  </p>
 

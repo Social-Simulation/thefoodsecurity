@@ -15,7 +15,7 @@ categories:
 
 ![联盟成立仪式现场](https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_1.jfif)
 
-<p class="_image_caption">联盟成立仪式现场</p>
+<p class="mdh-post_image_caption">联盟成立仪式现场</p>
 
 
 
@@ -27,13 +27,13 @@ categories:
 
 ![李召虎校长致辞](https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_2.jfif)
 
-<p class="_image_caption">李召虎校长致辞</p>
+<p class="mdh-post_image_caption">李召虎校长致辞</p>
 
 国际食物政策研究所（IFPRI）转型策略中心主任Channing Agndt博士在致辞中谈到，全球气候变化，食物-土地-水资源系统正面临转型，需要青年科学家的积极参与，IFPRI一向特别重视和青年科学家的交流。非常高兴这一联盟的发起最初来自中国，中国在过去几十年的农业发展和食物-土地-水资源系统转型中展现了非同寻常的成功路径，中国在南南合作中的实践也为世界其他国家的南南合作提供了成功的经验。
 
 ![Channing Agndt博士在线致辞](https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_3.jfif)
 
-<p class="_image_caption">Channing Agndt博士在线致辞</p>
+<p class="mdh-post_image_caption">Channing Agndt博士在线致辞</p>
 
 国际玉米小麦改良中心（CIMMYT）可持续农食研究首席科学家Iván Ortiz Monasterio博士在致辞中谈到，鉴于国际形势变化以及通货膨胀引发的粮食安全危机，需要建立一个富有恢复力的农业食物体系和生物多样性的世界。提升粮食作物的气候适应性、提高食物的营养质量应该成为农业科学家的一项研究重点。青年科学家将在农业系统智能监测、农业集约化和数字化、作物品种智能改良等方面贡献智慧，应用自己的研究成果提升农业可持续发展能力。
 
@@ -45,12 +45,12 @@ categories:
 
 ![联盟成立仪式现场](https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_4.jfif)
 
-<p class="_image_caption">联盟成立仪式现场</p>
+<p class="mdh-post_image_caption">联盟成立仪式现场</p>
 
 作为全球粮食安全青年科学家联盟主席团成员之一、华中农业大学经济管理学院李晓云教授代表联盟发布了《青年科学家联合起来，为世界发展中国家和不发达地区粮食安全贡献青春和力量》的全球倡议书。她在倡议中谈到，全球粮食安全青年科学家联盟在全球粮食安全和营养状况形势进一步严峻的背景下成立，旨在团结全球从事全球气候与农业系统、粮食生产、粮食市场与价格、消费等领域研究的青年科学家开展粮食安全问题研究、提供粮食安全决策支持和推动粮食安全实践。倡导联盟成员加强信息交流与资源共享，推动农食系统转型，为决策提供智力支持，躬身实践锻炼领导力，促进观念交叉融合、加速理论与技术创新，为公共卫生、减贫与粮食安全、气候变化、环境污染等领域的全球性问题提供新思路、新方法。
 
 ![李晓云教授代表联盟发布倡议](https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_5.jfif)
 
-<p class="_image_caption">李晓云教授代表联盟发布倡议</p>
+<p class="mdh-post_image_caption">李晓云教授代表联盟发布倡议</p>
 
 联盟成立后，将举行2022全球粮食安全论坛，邀请包括中国科学院院士张启发教授在内的30多位全球知名科学家和青年学者进行主题演讲和学术分享。

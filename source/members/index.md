@@ -2,7 +2,7 @@
 title: Members of the Association
 ---
 
-<h3 class="post_flex_center_center">
+<h3 class="mdh-post_flex_center_center">
     Members of the Association
 </h3>
 

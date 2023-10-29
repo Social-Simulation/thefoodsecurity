@@ -14,7 +14,7 @@ categories:
 
 “中国是最大的农业国，但不是最强的农业国。世界上的强国无一不是农业强国，都有能力解决自己的吃饭问题。”李晓云表示，“保障粮食与重要农产品的有效供给，不仅是农业现代化的首要任务，更是稳定社会经济发展的基本盘。”
 
- <p class="post_flex_center_center post_flex_p">
+ <p class="mdh-post_flex_center_center mdh-post_flex_center">
      <img src="https://img3.chinadaily.com.cn/images/202305/08/6458ada4a3105379f571493d.png" alt="" />
  </p>
 

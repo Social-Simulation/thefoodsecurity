@@ -16,7 +16,7 @@ categories:
 
 ![Thomas Glauben at the launch ceremony © IAMO](https://wp-img.daozhao.com.cn/thefoodsecurity/article/csm_IAMO-news_bearbeitet_web_18872c8c65.jpg)
 
-<p class="_image_caption">Thomas Glauben at the launch ceremony © IAMO</p>
+<p class="mdh-post_image_caption">Thomas Glauben at the launch ceremony © IAMO</p>
 
 Together with Huazhong Agricultural University (HZAU), International Food Policy Research Institute (IFPRI), and International Maize and Wheat Improvement Center (CIMMYT), IAMO is one of four founding institutes. The association, as an international exchange platform, is to connect young scientists from various disciplines.
 
