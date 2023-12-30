@@ -1,0 +1,32 @@
+<div id="vcomments"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.0.0/dist/av-min.js"></script>
+<script src="https://www.daozhao.com/_res/libs/Valine.1.5.1.min.js"></script>
+<script>
+    var GUEST_INFO = ['nick','mail','link'];
+    var guest_info = '<%= theme.comment.valine.guest_info %>'.split(',').filter(function(item){
+        return GUEST_INFO.indexOf(item) > -1
+    });
+    var requiredFields = '<%= theme.comment.valine.requiredFields %>'.split(',').filter(function(item){
+      return GUEST_INFO.indexOf(item) > -1
+    });
+    var langMode = { "nick": "昵称（必填）", "mail": "邮箱", "link": "工作单位", "nickFail": "昵称不能少于3个字符", "mailFail": "请填写正确的邮件地址", "sofa": "来发评论吧~", "submit": "提交", "reply": "回复", "cancelReply": "取消回复", "comments": "评论", "cancel": "取消", "confirm": "确认", "continue": "继续", "more": "加载更多...", "preview": "预览", "emoji": "表情", "expand": "查看更多...", "seconds": "秒前", "minutes": "分钟前", "hours": "小时前", "days": "天前", "now": "刚刚", "uploading": "正在传输...", "uploadDone": "传输完成!", "busy": "操作频繁，请稍候再试...", "code-98": "Valine 初始化失败，请检查 av-min.js 版本", "code-99": "Valine 初始化失败，请检查init中的`el`元素.", "code-100": "Valine 初始化失败，请检查你的AppId和AppKey.", "code-140": "今日 API 调用总次数已超过开发版限制.", "code-401": "未经授权的操作，请检查你的AppId和AppKey.", "code-403": "访问被API域名白名单拒绝，请检查你的安全域名设置." };
+    var notify = '<%= theme.comment.valine_notify %>' === 'true';
+    var verify = '<%= theme.comment.valine_verify %>' === 'true';
+    new Valine({
+        el: '#vcomments',
+        notify: notify,
+        verify: verify,
+        appId: "<%= theme.comment.valine.leancloud_appId %>",
+        appKey: "<%= theme.comment.valine.leancloud_appKey %>",
+        placeholder: "<%= theme.comment.valine.placeholder %>",
+        meta: guest_info,
+        requiredFields: requiredFields,
+        pageSize:'<%= theme.comment.valine.pageSize %>',
+        avatar:'<%= theme.comment.valine.avatar %>',
+        lang:'<%= theme.comment.valine.lang %>',
+        langMode,
+        guest_info: guest_info,
+        visitor: <%= theme.valine_counter.enable %>
+    });
+</script>

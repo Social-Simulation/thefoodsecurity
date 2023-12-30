@@ -1,0 +1,123 @@
+* {
+	margin: 0;
+}
+.activity-gallery {
+	margin: 0 0 30px 0
+}
+.swiper-slide {
+	text-align: center;
+	/*padding: 0 calc((100vw - 816px) * .15);*/
+	/*width: 816px;*/
+	padding: 0 !important;
+	width: 100vw !important;
+}
+.inner figure {
+	width: 100%;
+}
+.inner figure img {
+	width: 100%;
+	border-radius: 6px;
+}
+.gallery-item-desc {
+	width: 60%;
+	text-align: left;
+	display: inline-block;
+	opacity: 0;
+	transition-duration: 1.2s;
+}
+.init .gallery-item-desc {
+	opacity: 1;
+}
+.gallery-item-desc .typography-label {
+	line-height: 1.16667;
+	font-weight: 600;
+	letter-spacing: .009em;
+	color: #ffffff;
+	font-size: 36px !important;
+}
+.gallery-item-desc .typography-title {
+	display: inline-block;
+	background: #ffffff;
+	margin-top: 1em;
+	color: #333;
+	font-weight: 600;
+	font-size: 15px;
+	padding: 5px 12px;
+	border-radius: 8px;
+}
+.gallery-item-desc a {
+	cursor: pointer;
+}
+.swiper-slide-prev .gallery-item-desc {
+	transform: translateX(-70px);
+}
+.swiper-slide-next .gallery-item-desc {
+	transform: translateX(70px);
+}
+.swiper-slide-active .gallery-item-desc {
+	opacity: 1;
+	width: 60%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+@media only screen and (max-width: 1068px) {
+	.swiper-slide {
+		padding:0 calc((100vw - 576px) * .15);
+		width: 576px;
+	}
+	.gallery-item-desc {
+		padding-top: 41px;
+	}
+}
+@media only screen and (max-width: 735px) {
+	.swiper-slide {
+		transform: scale(.9);
+		padding: 0;
+		width: 85vw;
+		margin: 0 0;
+		min-width: 272px;
+	}
+	.swiper-slide-active {
+		transform: scale(1);
+	}
+	.gallery-item-desc {
+		padding-top: 26px;
+	}
+}
+.swiper-button-next, .swiper-button-prev {
+	top: 40%;
+	background-color: rgba(210,210,210,.6);
+	background-size: 15px 15px;
+	border-radius: 50%;
+	width: 52px;
+	height: 52px;
+	transition: all .5s;
+	outline: none;
+	opacity: 0;
+}
+.mouse-hover .swiper-button-next, .mouse-hover .swiper-button-prev {
+	opacity: 1;
+}
+.swiper-button-next:hover, .swiper-button-prev:hover {
+	background-color: rgba(210,210,210,.8);
+}
+/* swiper自带按钮图标太大 */
+.swiper-button-next:after, .swiper-button-prev:after {
+	font-size: 24px;
+}
+.swiper-button-next {
+	/*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");*/
+	right: 20px;
+}
+.swiper-button-prev {
+	/*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");*/
+	left: 20px;
+}
+.swiper-container {
+	position: relative;
+}
+.swiper-container .swiper-button-next.swiper-button-disabled, .swiper-container .swiper-button-prev.swiper-button-disabled {
+	opacity: 0;
+}

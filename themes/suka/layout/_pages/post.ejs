@@ -1,0 +1,48 @@
+<div class="post-container">
+    <div id="post-card" class="card">
+        <% if (page.thumbnail) { %>
+            <div class="card-image lazyload" data-bg="url('<%= page.thumbnail %>')"></div>
+        <% } %>
+        <div class="card-item-container">
+            <div class="card-inner-cell">
+                <!-- # Post Header Info # -->
+                <% if (theme.post.showPostHeader) { %>
+                    <div class="card-header">
+                        <%- partial('_partial/post/header-info') %>
+                    </div>
+                <% } %>
+                <% if (page._showPostTitle) { %>
+                    <div class="card-title">
+                        <h1><%- page.title %></h1>
+                    </div>
+                <% } %>
+                <div class="card-body">
+                    <% if (theme.toc.enable && (page.toc === true) ) { %>
+                        <% const toc_obj = toc(page.content, {
+                            class: 'post-toc',
+                            list_number: theme.toc.line_number || false
+                        }); %>
+                        <% if (toc_obj.length > 0) { %>
+                            <div id="post-toc"><%- toc_obj %></div>
+                        <% } %>
+                    <% } %>
+                    <article id="post-content" class="<%- page._showPostIndent ? 'indent' : ''%>">
+                        <%- page.content %>
+                    </article>
+                    <%- partial('_partial/post/footer-info') %>
+                </div>
+                <% if (page._showPrevNext) { %>
+                    <%- partial('_partial/post/footer-pagination') %>
+                <% } %>
+                <% if (page._comments === true) { %>
+                    <!-- # Comment # -->
+                    <% if (theme.comment.use) { %>
+                        <div class="card-footer post-comment">
+                            <%- partial('_plugin/comment/' + theme.comment.use + '/main') %>
+                        </div>
+                    <% } %>
+                <% } %>
+            </div>
+        </div>
+    </div>
+</div>
