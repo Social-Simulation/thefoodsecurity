@@ -1,6 +1,6 @@
 ---
 date: 2023-12-25 15:15:01
-title: "2023年全球粮食安全青年科学家论坛"
+title: "Global Food Security Association for Young Scientists"
 categories:
   - [recipes, 1]
 ---
