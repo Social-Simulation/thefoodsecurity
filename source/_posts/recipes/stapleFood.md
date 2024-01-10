@@ -33,13 +33,13 @@ categories:
 - Every 100g Rice has about 116kcal calories, 2.6g protein, 0.3g fat and 25.9g carbohydrate.
 
 #### Typical Dishes ####
-| Country  | Name             | Picture                                                                                                                                    |
-| -------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| China    | Fried Rice       | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/China-Rice.png?raw=true" width="100px">    |
-| Japan    | Sushi            | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Japan-Rice.png?raw=true" width="100px">    |
-| Spain    | Paella           | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Spain-Rice.png?raw=true" width="100px">    |
-| Portugal | Arroz De Marisco | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Portugal-Rice.png?raw=true" width="100px"> |
-| Malaysia | Nasi Lemak       | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Malaysia-Rice.png?raw=true" width="100px"> |
+| Country  | Name             | Picture                                          |
+| -------- | ---------------- | ------------------------------------------------ |
+| China    | Fried Rice       | <img src="/img/China-Rice.png" width="100px">    |
+| Japan    | Sushi            | <img src="/img/Japan-Rice.png" width="100px">    |
+| Spain    | Paella           | <img src="/img/Spain-Rice.png" width="100px">    |
+| Portugal | Arroz De Marisco | <img src="/img/Portugal-Rice.png" width="100px"> |
+| Malaysia | Nasi Lemak       | <img src="/img/Malaysia-Rice.png" width="100px"> |
 
 
 <!-- ### 1.2 Rice Noodle ###
@@ -53,12 +53,12 @@ Nutrition
 - Every 100g Rice Noodle (raw) has about 350kcal calories, 7.7g protein, 0.1g fat and 80g carbohydrate.
 
 #### Dishes ####
-| Country   | Name                     | Picture                                                                                                                                            |
-| --------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| China     | River Snail Rice Noodles | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/China-Rice-Noodle.png?raw=true" width="100px">     |
-| Vietnam   | Pho                      | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Vietnam-Rice-Noodle.png?raw=true" width="100px">   |
-| Malaysia  | Laksa                    | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Malaysia-Rice-Noodle.png?raw=true" width="100px">  |
-| Singapore | Singapore Fried Bee Hoon | <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Singapore-Rice-Noodle.png?raw=true" width="100px"> |
+| Country   | Name                     | Picture                                                  |
+| --------- | ------------------------ | -------------------------------------------------------- |
+| China     | River Snail Rice Noodles | <img src="/img/China-Rice-Noodle.png" width="100px">     |
+| Vietnam   | Pho                      | <img src="/img/Vietnam-Rice-Noodle.png" width="100px">   |
+| Malaysia  | Laksa                    | <img src="/img/Malaysia-Rice-Noodle.png" width="100px">  |
+| Singapore | Singapore Fried Bee Hoon | <img src="/img/Singapore-Rice-Noodle.png" width="100px"> |
 
 ### 1.3 Congee ###
 
@@ -71,7 +71,7 @@ Nutrition
 - Every 100g Congee has about 46kcal calories, 1.1g protein, 0.3g fat and 9.9g carbohydrate.
 
 #### Dishes ####
-<img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Congee-1.png?raw=true" width="200px">    <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Congee-2.png?raw=true" width="200px">      <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Congee-3.png?raw=true" width="200px">     <img src="https://github.com/Social-Simulation/thefoodsecurity/blob/main/themes/suka/source/img/Congee-4.png?raw=true" width="200px"> -->
+<img src="/img/Congee-1.png" width="200px">    <img src="/img/Congee-2.png" width="200px">      <img src="/img/Congee-3.png" width="200px">     <img src="/img/Congee-4.png" width="200px"> -->
   </div>
 </div>
 
