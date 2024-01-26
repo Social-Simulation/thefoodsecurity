@@ -7,8 +7,6 @@ categories:
 
 ![image.png](https://wp-img.daozhao.com/thefoodsecurity/event1.png)
 
-![image.png](https://wp-img.daozhao.com/thefoodsecurity/event2.png)
-
 <h3><span><a onclick="_51Track('download', 'formHandbook')" href="https://wp-img.daozhao.com/thefoodsecurity/doc/Global%20Food%20Security%20Forum_handbook.pdf" target="_blank">Full version of the program 完整会议手册（点击下载）</a></span></h3>
 
 The forum aims to bring together scientists, scholars and innovators from different subjects to discuss their research findings and exchange innovative ideas on all aspects of global food security.
