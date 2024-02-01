@@ -5,78 +5,104 @@
             <h2 class="page-title">
                 <%= __("category") + " : " + (categoryAlias || page.category) %>
             </h2>
-            <% } %>
+        <% } %>
 
-                <% let pathList=page.path.split('/'); let categoryIndex=pathList.indexOf(page.category); let
-                    categoryParent=pathList[categoryIndex - 1]; let categoryFullParent=pathList.slice(0,
-                    categoryIndex).join('_'); let categoryFullKey=categoryFullParent + '_' + page.category; let
-                    categoryAlias=theme['_' + categoryFullKey + '_alias' ]; let yearList=[]; // 检查文章的分类是否包含 4
-                    位数字，如果是，说明是年份 if (/^\d{4}$/.test(page.category)) { let postsList=site.posts.sort('date',
-                    -1).filter(function (post) { let flag=false; post.categories.each(function (it, index) { if
-                    (categoryParent===it.name) { flag=true; } }); return flag; }); postsList.each(function (post) { let
-                    categoryYear='' ; post.categories.each(function (it, index) { if (/^\d{4}$/.test(it.name)) {
-                    categoryYear=it.name; } }); if (categoryYear && !yearList.includes(categoryYear)) {
-                    yearList.push(categoryYear); } }); } %>
+        <% let pathList = page.path.split('/');
+            let categoryIndex = pathList.indexOf(page.category);
+            let categoryParent = pathList[categoryIndex - 1];
+            let categoryFullParent = pathList.slice(0, categoryIndex).join('_');
+            let categoryFullKey = categoryFullParent + '_' + page.category;
+            let categoryAlias = theme['_' + categoryFullKey + '_alias'];
+            let yearList = [];
 
-                    <% if (yearList.length> 0) { %>
-                        <!-- 处理有年份的文章 -->
-                        <div class="category-box">
-                            <div class="category-nav">
-                                <div class="category-title">
-                                    <span class="category-icon"></span>
-                                    <span class="category-text">青年科学家论坛</span>
-                                </div>
-                                <div class="year_wrapper">
-                                    <% yearList.forEach(function (year) { let key=categoryFullParent + '_' + year; let
-                                        alias=theme['_' + key + '_alias' ]; // 检查年份是否为2024 if (year==='2024' ) {
-                                        alias='stapleFood' ; // 将别名设置为"stapleFood" } %>
-                                        <div class="category_year">
-                                            <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>"
-                                                class="category_year-a <%- year === page.category ? 'active' : ''%>">
-                                                <%- alias || (year==='2024' ? 'stapleFood' : year) %>
-                                            </a>
-                                        </div>
-                                        <% }); %>
-                                </div>
-                            </div>
-                            <div class="category-content-container">
-                                <div>
-                                    <div class="category-content-location-container">
-                                        <div class="category-content-title"><%- categoryAlias || (page.category==='2024'
-                                                ? 'stapleFood' : page.category) %></div>
-                                        <div class="category-content-location">
-                                            您的位置是： <a href="/">首页</a> > <a
-                                                href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + (page.category === '2024' ? 'stapleFood' : page.category) + '/'%>">
-                                                <%- categoryAlias || (page.category==='2024' ? 'stapleFood' :
-                                                    page.category) %>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="category-content-blank"></div>
-                                <div class="category-content">
-                                    <!-- # Post List # -->
-                                    <div class="post-stream-container">
-                                        <% page.posts.sort('date', -1).each(function(post){ %>
-                                            <div class="grid-item">
-                                                <%- partial('_pages/post', { post: post, page: post, index: true, pin:
-                                                    false }) %>
-                                            </div>
-                                            <% }) %>
-                                    </div>
-                                </div>
+            // 检查文章的分类是否包含 4 位数字，如果是，说明是年份
+            if (/^\d{4}$/.test(page.category)) {
+                let postsList = site.posts.sort('date', -1).filter(function (post) {
+                    let flag = false;
+                    post.categories.each(function (it, index) {
+                        if (categoryParent === it.name) {
+                            flag = true;
+                        }
+                    });
+                    return flag;
+                });
+
+                postsList.each(function (post) {
+                    let categoryYear = '';
+                    post.categories.each(function (it, index) {
+                        if (/^\d{4}$/.test(it.name)) {
+                            categoryYear = it.name;
+                        }
+                    });
+                    if (categoryYear && !yearList.includes(categoryYear)) {
+                        yearList.push(categoryYear);
+                    }
+                });
+            }
+        %>
+
+        <% if (yearList.length > 0) { %>
+            <!-- 处理有年份的文章 -->
+            <div class="category-box">
+                <div class="category-nav">
+                    <div class="category-title">
+                        <span class="category-icon"></span>
+                        <span class="category-text">青年科学家论坛</span>
+                    </div>
+                    <div class="year_wrapper">
+                        <% yearList.forEach(function (year) { 
+                            let key = categoryFullParent + '_' + year; 
+                            let alias = theme['_' + key + '_alias']; 
+
+                            // 检查年份是否为2024
+                            if (year === '2024') {
+                                alias = 'stapleFood'; // 将别名设置为"stapleFood"
+                            }
+                        %>
+                        <div class="category_year">
+                            <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>"
+                                class="category_year-a <%- year === page.category ? 'active' : ''%>">
+                                <%- alias || (year === '2024' ? 'stapleFood' : year) %>
+                            </a>
+                        </div>
+                        <% }); %>
+                    </div>
+                </div>
+                <div class="category-content-container">
+                    <div>
+                        <div class="category-content-location-container">
+                            <div class="category-content-title"><%- categoryAlias || (page.category === '2024' ? 'stapleFood' : page.category) %></div>
+                            <div class="category-content-location">
+                                您的位置是： <a href="/">首页</a> > <a
+                                    href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + (page.category === '2024' ? 'stapleFood' : page.category) + '/'%>">
+                                    <%- categoryAlias || (page.category === '2024' ? 'stapleFood' : page.category) %>
+                                </a>
                             </div>
                         </div>
-                        <% } else { %>
-                            <!-- 处理其他情况，例如没有年份的文章 -->
-                            <div class="post-stream-container">
-                                <% page.posts.sort('date', -1).each(function(post){ %>
-                                    <div class="grid-item">
-                                        <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
-                                    </div>
-                                    <% }) %>
-                            </div>
-                            <% } %>
+                    </div>
+                    <div class="category-content-blank"></div>
+                    <div class="category-content">
+                        <!-- # Post List # -->
+                        <div class="post-stream-container">
+                            <% page.posts.sort('date', -1).each(function(post){ %>
+                                <div class="grid-item">
+                                    <%- partial('_pages/post', { post: post, page: post, index: true, pin: false }) %>
+                                </div>
+                            <% }) %>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <% } else { %>
+            <!-- 处理其他情况，例如没有年份的文章 -->
+            <div class="post-stream-container">
+                <% page.posts.sort('date', -1).each(function(post){ %>
+                    <div class="grid-item">
+                        <%- partial('_partial/post-entry', { post: post, index: true, pin: false }) %>
+                    </div>
+                <% }) %>
+            </div>
+        <% } %>
     </main>
     <%- partial('_partial/pagination') %>
 </div>
