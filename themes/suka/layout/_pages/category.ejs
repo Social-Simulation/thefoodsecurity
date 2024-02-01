@@ -33,7 +33,7 @@
                                         <div class="category_year">
                                             <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>"
                                                 class="category_year-a <%- year === page.category ? 'active' : ''%>">
-                                                <%- alias || year %>
+                                                <%- alias || (year==='2024' ? 'stapleFood' : year) %>
                                             </a>
                                         </div>
                                         <% }); %>
