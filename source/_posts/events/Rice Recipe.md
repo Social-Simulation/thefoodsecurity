@@ -1,7 +1,7 @@
 ---
-date: 2021-12-25 15:15:01
-title: "2021年全球粮食安全青年科学家论坛"
-categories: [events, 2021]
+date: 2023-11-25 15:15:01
+title: "Global Food Security Forum for Young Scientists"
+categories: [events, 2033]
 ---
 
 ###  Rice ###

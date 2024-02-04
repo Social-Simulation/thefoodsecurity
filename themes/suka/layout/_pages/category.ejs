@@ -54,15 +54,15 @@
                             let key = categoryFullParent + '_' + year; 
                             let alias = theme['_' + key + '_alias']; 
 
-                            // 检查年份是否为2021
-                            if (year === '2021') {
-                                alias = 'Rice Recipe'; // 将别名设置为"Rice Recipe"
+                            // 检查年份是否为2033
+                            if (year === '2033') {
+                                alias = '&nbsp;&nbsp;&nbsp; Rice Recipe'; // 将别名设置为"Rice Recipe"
                             }
                         %>
                         <div class="category_year">
                             <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + year + '/'%>"
                                 class="category_year-a <%- year === page.category ? 'active' : ''%>">
-                                <%- alias || (year === '2021' ? 'Rice Recipe' : year) %>
+                                <%- alias || (year === '2033' ? 'Rice Recipe' : year) %>
                             </a>
                         </div>
                         <% }); %>
@@ -71,11 +71,15 @@
                 <div class="category-content-container">
                     <div>
                         <div class="category-content-location-container">
-                            <div class="category-content-title"><%- categoryAlias || (page.category === '2021' ? 'Rice Recipe' : page.category) %></div>
+                            <div class="category-content-title"><%- categoryAlias || (page.category === '2033' ? 'Rice Recipe' : page.category) %></div>
                             <div class="category-content-location">
-                                您的位置是： <a href="/">首页</a> > <a
-                                    href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + (page.category === '2021' ? 'Rice Recipe' : page.category) + '/'%>">
-                                    <%- categoryAlias || (page.category === '2021' ? 'Rice Recipe' : page.category) %>
+                                您的位置是：
+                                <a href="/">首页</a>  
+                                <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/2023/' %>">
+                                    <%= (page.category === '2033' ? '> Forum 2023' : '') %>
+                                </a> > 
+                                <a href="/<%- pathList.slice(0, categoryIndex).join('/') + '/' + (page.category === '2033' ? 'Rice Recipe' : page.category) + '/'%>">
+                                    <%= (page.category === '2033' ? 'Rice Recipe' : categoryAlias || page.category) %>
                                 </a>
                             </div>
                         </div>
