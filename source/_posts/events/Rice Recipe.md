@@ -1,6 +1,6 @@
 ---
 date: 2023-11-25 15:15:01
-title: "Global Food Security Forum for Young Scientists"
+title: "2023 Rice Recipe"
 categories: [events, 2033]
 ---
 
