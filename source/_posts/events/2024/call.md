@@ -6,9 +6,9 @@ categories:
   - 2034
 ---
 
-## Call for Videos
+## Call for Papers
 
-Please submit your videos.
+Please submit your papers for consideration.
 
 <div id="videoContainer">
     <input type="file" id="fileInput" accept="video/*" style="display: none;">
@@ -79,11 +79,13 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert('Upload complete!');
             } else {
                 console.error('Failed to upload video. Status:', xhr.status);
+                alert('Failed to upload video. Please try again.');
             }
         };
 
         xhr.onerror = function() {
             console.error('Failed to upload video. Network error.');
+            alert('Failed to upload video due to a network error. Please try again.');
         };
 
         xhr.send(formData);
