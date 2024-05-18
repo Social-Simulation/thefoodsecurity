@@ -390,7 +390,7 @@
                 <div class="card-body">
                     
                     <article id="post-content" class="">
-                        <h2 id="Call-for-Videos"><a href="#Call-for-Videos" class="headerlink" title="Call for Videos"></a>Call for Videos</h2><p>Please submit your videos.</p>
+                        <h2 id="Call-for-Papers"><a href="#Call-for-Papers" class="headerlink" title="Call for Papers"></a>Call for Papers</h2><p>Please submit your papers for consideration.</p>
 <div id="videoContainer">
     <input type="file" id="fileInput" accept="video/*" style="display: none;">
     <button id="selectFileButton" style="padding: 10px 20px; margin: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Select Video</button>
@@ -460,11 +460,13 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert('Upload complete!');
             } else {
                 console.error('Failed to upload video. Status:', xhr.status);
+                alert('Failed to upload video. Please try again.');
             }
         };
 
         xhr.onerror = function() {
             console.error('Failed to upload video. Network error.');
+            alert('Failed to upload video due to a network error. Please try again.');
         };
 
         xhr.send(formData);
