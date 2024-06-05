@@ -61,7 +61,8 @@ The notification of acceptance will be sent by 20 September 2024.
 
 All papers should be submitted and presented in English. The format should follow the guidelines of Food Policy. Please find detailed guidelines in the following links: https://www.sciencedirect.com/journal/food-policy/publish/guide-for-authors 
 
-**Contacts:**
+**Contact**
 
 GFSAYS Secretariat
 Email: fs@hzau.edu.cn
+Website：https://thefoodsecurity.org/events/2024/call/
