@@ -22,10 +22,6 @@ Prof. Jing Zhu (Nanjing Agricultural University)
 Dr. Liangzhi You (International Food Policy Research Institute)
 Prof. Xiaohua Yu (University of Goettingen)
 Prof. Shaobing Peng (Huazhong Agricultural University)
-**Presidium:** Prof. Xiaoyun Li, Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Sun
-**Secretariat:** Prof. Hang Xiong, Dr. Xuecai Zhang, Dr. Lena Kuhn, Prof. Shi Min, Dr. Jian Li, Dr. Chuan Tang, Dr.
-Zhuang Hao
-**Secretary-general:** Prof. Hang Xiong
 **President:** Prof. Xiaoyun Li
 **Presidium:** Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Sun
 **Secretariat:** Prof. Hang Xiong, Dr. Xuecai Zhang, Dr. Lena Kuhn, Prof. Shi Min, Prof. Jian Li, Dr. Zhuang Hao, Prof. Xu Tian, Prof. Yanjun Ren, Dr. Xiaoxi Wang, Dr. Tianxiang Li
