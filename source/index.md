@@ -10,7 +10,7 @@ layout: homepage
             <div class="swiper-slide init">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/2024.jpg"></figure>
+                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/Carousel_event2250.png"></figure>
                     </a>
                 </div>
             </div>
