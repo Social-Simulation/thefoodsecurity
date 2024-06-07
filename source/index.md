@@ -17,14 +17,14 @@ layout: homepage
             <div class="swiper-slide init">
                 <div class="inner">
                     <a href="/about/">
-                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/Carousel_food1710.png"></figure>
+                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/Carousel_food1710.png"style="height:790px;"></figure>
                     </a>
                 </div>
             </div>
             <div class="swiper-slide init">
                 <div class="inner">
                     <a href="/initiative/">
-                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/Carousel_rice1995.png"></figure>
+                        <figure><img src="https://wp-img.daozhao.com/thefoodsecurity/Carousel_rice1995.png"style="height:790px;"></figure>
                     </a>
                 </div>
             </div>
