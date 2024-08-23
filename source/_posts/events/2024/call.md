@@ -6,7 +6,7 @@ categories:
   - 2034
 ---
 
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call For Papers and Short Videos</h1>
+<h1 style="text-align: center;">Call For Papers and Short Videos</h1>
 
 The 2024 Global Food Security Forum for Young Scientists will be held on 26-27 October 2024 in Wuhan, China. This year marks the 3rd anniversary of the Global Food Security Association for Young Scientists (GFSAYS), which was jointly founded by Huazhong Agricultural University (HZAU), the International Food Policy Research Institute (IFPRI), and the International Maize and Wheat Improvement Center (CIMMYT), and the Leibniz Institute of Agricultural Development in Transition Economies (IAMO). The association, as an international exchange platform, aims to connect young scientists focusing on food security issues from various disciplines.
 
