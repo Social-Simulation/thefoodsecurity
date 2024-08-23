@@ -23,3 +23,13 @@ categories:
 <p style="text-align: justify;">
 Jordan Chamberlin is an agricultural economist at the International Maize and Wheat Improvement Center (CIMMYT), based in Nairobi, Kenya. His research spans a range of topics broadly related to rural transformation in agrarian economies, including digital advisory services and agricultural technology change, rural labor mobility, and the evolution of rural land markets. With CIMMYT, Jordan has been based in Ethiopia and Kenya, with work primarily focused on Africa. Jordan received his Ph.D. in Agricultural Economics from Michigan State University.
 </p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Wendong_Zhang.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Wendong Zhang, Assistant Professor at Cornell University</p>
+
+<p style="text-align: justify;">
+Wendong Zhang is an assistant professor and extension economist in the Charles H. Dyson School of Applied Economics and Management at Cornell University. Zhang is currently faculty affiliate at Cornell Center for China Economic Research, faculty fellow at Cornell Atkinson Center for Sustainability, and a 2023-2025 Faculty Fellow at the Leibniz Centre for Agricultural Landscape Research in Germany. Zhang is an associate editor of American Journal of Agricultural Economics as well as the Journal of Soil and Water Conservation. His research seeks to better understand the interplay between agriculture and the environment, farmland market, and Chinese agriculture. Zhang received his PhD in Agricultural, Environmental and Development Economics from Ohio State University.
+</p>
