@@ -20,36 +20,36 @@ categories:
 
 <h4>Humanities and Social Sciences Building (HSSB), Huazhong Agricultural University, Wuhan, China</h4>
 
-|  **日期**   |   **时间**    |                   **活动**                    |           **地点**            |
-| :---------: | :-----------: | :-------------------------------------------: | :---------------------------: |
-| **Oct. 25** | 14:00 - 20:00 |                 Registration                  |        1st Floor IAEC         |
-| **Oct. 26** | 08:30 - 09:20 |               Opening Ceremony                |  Lecture Hall 1st Floor IAEC  |
-|             | 09:20 - 10:20 |               Plenary Session I               |  Lecture Hall 1st Floor IAEC  |
-|             | 10:20 - 10:40 |                 Coffee Break                  |  Lecture Hall 1st Floor IAEC  |
-|             | 10:40 - 11:40 |               Plenary Session I               |  Lecture Hall 1st Floor IAEC  |
-|             | 11:40 - 12:00 |              Rice Report Release              |  Lecture Hall 1st Floor IAEC  |
-|             | 12:00 - 13:00 |          A Taste of Rice: Food Court          | Outside garden 1st Floor IAEC |
-|             | 12:00 - 14:00 |                  Lunch Break                  |    Canteen 1st Floor IAEC     |
-|             | 14:00 - 15:00 | Industry-University-Research (IUR) Roundtable |    Room TBD 5st Floor HSSB    |
-|             |               |            "Novel Food Production"            |                               |
-|             | 14:00 - 15:40 |              Regular Session I-A              |    Room TBD 5st Floor HSSB    |
-|             | 14:00 - 15:40 |              Regular Session I-B              |    Room TBD 5st Floor HSSB    |
-|             | 14:00 - 15:40 |              Regular Session I-C              |    Room TBD 5st Floor HSSB    |
-|             | 14:00 - 15:40 |              Regular Session I-D              |    Room TBD 5st Floor HSSB    |
-|             | 15:40 - 16:00 |                 Coffee Break                  |        5st Floor HSSB         |
-|             | 16:00 - 17:40 |             Regular Session II-A              |    Room TBD 5st Floor HSSB    |
-|             | 16:00 - 17:40 |             Regular Session II-B              |    Room TBD 5st Floor HSSB    |
-|             | 16:00 - 17:40 |             Regular Session II-C              |    Room TBD 5st Floor HSSB    |
-|             | 16:00 - 17:40 |             Regular Session II-D              |    Room TBD 5st Floor HSSB    |
-| **Oct. 27** | 08:00 - 09:40 |                Ph.D Session-A                 |    Room TBD 5st Floor HSSB    |
-|             | 08:00 - 09:40 |                Ph.D Session-B                 |    Room TBD 5st Floor HSSB    |
-|             | 08:00 - 09:40 |                Ph.D Session-C                 |    Room TBD 5st Floor HSSB    |
-|             | 08:00 - 09:40 |                Ph.D Session-D                 |    Room TBD 5st Floor HSSB    |
-|             | 09:40 - 10:00 |                 Coffee Break                  |        5st Floor HSSB         |
-|             | 10:00 - 11:00 |              Plenary Session II               |    Room 501 5st Floor HSSB    |
-|             | 11:00 - 11:20 |  Selected Short Videos "Youth Power for Food  |    Room 501 5st Floor HSSB    |
-|             |               |                   Security"                   |                               |
-|             | 11:20 - 11:40 |                Close Ceremony                 |    Room 501 5st Floor HSSB    |
+|  **日期**   |   **时间**    |                    **活动**                     |           **地点**            |
+| :---------: | :-----------: | :---------------------------------------------: | :---------------------------: |
+| **Oct. 25** | 14:00 - 20:00 |                  Registration                   |        1st Floor IAEC         |
+| **Oct. 26** | 08:30 - 09:20 |                Opening Ceremony                 |  Lecture Hall 1st Floor IAEC  |
+|             | 09:20 - 10:20 |                Plenary Session I                |  Lecture Hall 1st Floor IAEC  |
+|             | 10:20 - 10:40 |                  Coffee Break                   |  Lecture Hall 1st Floor IAEC  |
+|             | 10:40 - 11:40 |                Plenary Session I                |  Lecture Hall 1st Floor IAEC  |
+|             | 11:40 - 12:00 |               Rice Report Release               |  Lecture Hall 1st Floor IAEC  |
+|             | 12:00 - 13:00 |           A Taste of Rice: Food Court           | Outside garden 1st Floor IAEC |
+|             | 12:00 - 14:00 |                   Lunch Break                   |    Canteen 1st Floor IAEC     |
+|             | 14:00 - 15:00 | Industry-University-Research (IUR) Conversation |    Room TBD 5st Floor HSSB    |
+|             |               |             "Novel Food Production"             |                               |
+|             | 14:00 - 15:40 |               Regular Session I-A               |    Room TBD 5st Floor HSSB    |
+|             | 14:00 - 15:40 |               Regular Session I-B               |    Room TBD 5st Floor HSSB    |
+|             | 14:00 - 15:40 |               Regular Session I-C               |    Room TBD 5st Floor HSSB    |
+|             | 14:00 - 15:40 |               Regular Session I-D               |    Room TBD 5st Floor HSSB    |
+|             | 15:40 - 16:00 |                  Coffee Break                   |        5st Floor HSSB         |
+|             | 16:00 - 17:40 |              Regular Session II-A               |    Room TBD 5st Floor HSSB    |
+|             | 16:00 - 17:40 |              Regular Session II-B               |    Room TBD 5st Floor HSSB    |
+|             | 16:00 - 17:40 |              Regular Session II-C               |    Room TBD 5st Floor HSSB    |
+|             | 16:00 - 17:40 |              Regular Session II-D               |    Room TBD 5st Floor HSSB    |
+| **Oct. 27** | 08:00 - 09:40 |                 Ph.D Session-A                  |    Room TBD 5st Floor HSSB    |
+|             | 08:00 - 09:40 |                 Ph.D Session-B                  |    Room TBD 5st Floor HSSB    |
+|             | 08:00 - 09:40 |                 Ph.D Session-C                  |    Room TBD 5st Floor HSSB    |
+|             | 08:00 - 09:40 |                 Ph.D Session-D                  |    Room TBD 5st Floor HSSB    |
+|             | 09:40 - 10:00 |                  Coffee Break                   |        5st Floor HSSB         |
+|             | 10:00 - 11:00 |               Plenary Session II                |    Room 501 5st Floor HSSB    |
+|             | 11:00 - 11:20 |   Selected Short Videos "Youth Power for Food   |    Room 501 5st Floor HSSB    |
+|             |               |                    Security"                    |                               |
+|             | 11:20 - 11:40 |                 Close Ceremony                  |    Room 501 5st Floor HSSB    |
 
 
 
