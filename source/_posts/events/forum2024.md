@@ -56,6 +56,16 @@ categories:
 #### Keynote Speaker (in alphabetical order)
 
 <div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Binlei_Gong.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Binlei Gong, Professor at Zhejiang University</p>
+
+<p style="text-align: justify;">
+Dr. Binlei Gong is Professor in School of Public Affairs at Zhejiang University. He serves as the Executive Vice Dean in China Academy for Rural Development (CARD) and President-elect of Agricultural & Applied Economics Association (AAEA) China Section. His research interests include Productivity and Economic Growth, Development Economics, Agricultural Economics, Energy & Enviromental Economics. Dr. Gong's papers have been published in many academic journals, including Journal of Development Economics and American Journal of Agriclutural Economics. Before joining ZJU, Dr. Gong received his B.S. from Zhejiang University and M.S. in Agricultural, Food and Resource Economics from Michigan State University. He then received M.A. in Economics, M.A. in Statistics, and Ph.D. in Economics from Rice University, and won Rice Outstanding Dissertation Award.
+</p>
+
+<div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jordan_Chamberlin.png">
 </div>
 
