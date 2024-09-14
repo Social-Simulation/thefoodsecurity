@@ -53,7 +53,17 @@ categories:
 
 
 
-#### Keynote Speaker (in alphabetical order)
+#### Keynote Speakers (in alphabetical order)
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jordan_Chamberlin.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Jordan Chamberlin, Agricultural Economist at the CIMMYT</p>
+
+<p style="text-align: justify;">
+Jordan Chamberlin is an agricultural economist at the International Maize and Wheat Improvement Center (CIMMYT), based in Nairobi, Kenya. His research spans a range of topics broadly related to rural transformation in agrarian economies, including digital advisory services and agricultural technology change, rural labor mobility, and the evolution of rural land markets. With CIMMYT, Jordan has been based in Ethiopia and Kenya, with work primarily focused on Africa. Jordan received his Ph.D. in Agricultural Economics from Michigan State University.
+</p>
 
 <div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Binlei_Gong.png">
@@ -66,13 +76,13 @@ Dr. Binlei Gong is the Qiushi Chair Professor in School of Public Affairs at Zhe
 </p>
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jordan_Chamberlin.png">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jikun_Huang.jpg">
 </div>
 
-<p class="post_flex_center_center" style="font-weight: bold">Jordan Chamberlin, Agricultural Economist at the CIMMYT</p>
+<p class="post_flex_center_center" style="font-weight: bold">Jikun Huang, Professor at Peking University</p>
 
 <p style="text-align: justify;">
-Jordan Chamberlin is an agricultural economist at the International Maize and Wheat Improvement Center (CIMMYT), based in Nairobi, Kenya. His research spans a range of topics broadly related to rural transformation in agrarian economies, including digital advisory services and agricultural technology change, rural labor mobility, and the evolution of rural land markets. With CIMMYT, Jordan has been based in Ethiopia and Kenya, with work primarily focused on Africa. Jordan received his Ph.D. in Agricultural Economics from Michigan State University.
+Professor Jikun Huang is the Dean of the School of Advanced Agricultural Sciences, the Director of New Rural Development Institute at Peking University, the Honorary Director of the China Center for Agricultural Policy at Peking University. He is also a Fellow of the World Academy of Sciences, a lifetime honorary Fellow of the International Association of Agricultural Economists, and a Fellow of the Agricultural and Applied Economics Association. Professor Huang's research covers a wide range of issues on agricultural technology, food security, resource and environmental management, agricultural decision support systems, and rural development policies. He has been awarded prestigious grants such as the "Distinguished Young Scholars" and "Innovative Research Group" from the National Natural Science Foundation of China, and he has served as Chief Scientist for the Ministry of Science and Technology's "973" program. Professor Huang has published over 580 papers in domestic and international journals, including Science and Nature, and many leading journals in development economics. He has been frequently listed as one of China's most highly cited scholars in the fields of Economics, Econometrics, and Finance, according to Elsevier.
 </p>
 
 <div class="post_flex_center_center">
