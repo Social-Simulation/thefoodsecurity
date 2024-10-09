@@ -96,6 +96,15 @@ Shi Min is a professor of agricultural economics at the College of Economics and
 </p>
 
 <div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Shen_Yuan.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Shen Yuan, Professor at Huazhong Agricultural University</p>
+
+<p style="text-align: justify;">
+Shen Yuan is a professor at the College of Plant Science and Technology of Huazhong Agricultural University and a researcher at the Hubei Hongshan Laboratory. His work centers on promoting the sustainable development of rice production, with a particular focus on implementing crop management strategies that achieve both high yield and efficient resource utilization. He approaches his research by analyzing limiting factors, devising capacity enhancement strategies, and optimizing agricultural systems and crop management practices across global, regional, and field scales. He has authored 52 papers, including 20 as the first author, in journals such as Nature Communications and Nature Food, with two of these papers being highly cited in the ESI database. He is a recipient of several accolades, including the China Association for Science and Technology Youth Talent Support Project, the Hubei Province Youth Top Talent Development Program, and the Wuhan Talent-Outstanding Youth Talent Project.
+
+<div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Wendong_Zhang.jpg">
 </div>
 
