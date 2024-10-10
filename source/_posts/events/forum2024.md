@@ -66,16 +66,6 @@ Jordan Chamberlin is an agricultural economist at the International Maize and W
 </p>
 
 <div class="post_flex_center_center">
-<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jikun_Huang.jpg">
-</div>
-
-<p class="post_flex_center_center" style="font-weight: bold">Jikun Huang, Professor at Peking University</p>
-
-<p style="text-align: justify;">
-Professor Jikun Huang is the Dean of the School of Advanced Agricultural Sciences, the Director of New Rural Development Institute at Peking University, the Honorary Director of the China Center for Agricultural Policy at Peking University. He is also a Fellow of the World Academy of Sciences, a lifetime honorary Fellow of the International Association of Agricultural Economists, and a Fellow of the Agricultural and Applied Economics Association. Professor Huang's research covers a wide range of issues on agricultural technology, food security, resource and environmental management, agricultural decision support systems, and rural development policies. He has been awarded prestigious grants such as the "Distinguished Young Scholars" and "Innovative Research Group" from the National Natural Science Foundation of China, and he has served as Chief Scientist for the Ministry of Science and Technology's "973" program. Professor Huang has published over 580 papers in domestic and international journals, including Science and Nature, and many leading journals in development economics. He has been frequently listed as one of China's most highly cited scholars in the fields of Economics, Econometrics, and Finance, according to Elsevier.
-</p>
-
-<div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Kazuki_KITAOKA.jpg">
 </div>
 
@@ -83,6 +73,16 @@ Professor Jikun Huang is the Dean of the School of Advanced Agricultural Science
 
 <p style="text-align: justify;">
 Kazuki KITAOKA is the Global Coordinator of the World Food Forum at the Food and Agriculture Organization of the United Nations (FAO). In this context, he manages global youth engagement and empowerment to advance agrifood systems transformation for the achievement of the SDGs and a better food future for all. Prior to this position, he headed the Outreach, Marketing and Reporting Unit in FAO’s Resource Mobilization and Private Sector Partnerships Division (PSR) for several years. Before joining FAO, his career at the United Nations led Mr Kitaoka to numerous duty stations across Africa, Asia-Pacific and headquarter locations in Europe, where he held roles as programme manager, head of donor relations and head of strategic planning and coordination. He managed various strategic global initiatives, including on private sector in development in the context of the SDGs, and worked on major policies and programmes related to sustainability, growth, poverty reduction, gender equality, youth engagement, private sector development, the role of middle-income countries, development effectiveness and the global aid architecture. Previous to the UN, Mr Kitaoka worked in the financial industries in Japan and Switzerland, following his university degrees in economics and business in Switzerland, the United Kingdom and the United States.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Chengfang_Liu.jpg">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Chengfang Liu, Professor at Peking University</p>
+
+<p style="text-align: justify;">
+Chengfang Liu, Ph.D in agricultural and resource economics from the University of California (Davis), holds the Boya Professorship at Peking University. She also serves as the associate dean at the School of Advanced Agricultural Sciences for education, research and international collaborations. For more than 20 years, she has worked on development economics and applied microeconometrics. With her coauthors, Dr. Liu has published about 140 papers in peer-reviewed journals both domestically and internationally, including Journal of Development Economics, Journal of Labor Economics, etc. In recognition of her work, Dr. Liu received The China National Science Fund for Distinguished Young Scientists (“Guojia Jieqing”) in 2019. She served as the Chair of the China Section of Agricultural & Applied Economics Association (2019-2021) and the associate editor of China Agricultural Economic Review (2023 to date). 
 </p>
 
 <div class="post_flex_center_center">
