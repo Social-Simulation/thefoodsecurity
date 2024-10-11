@@ -97,7 +97,7 @@ He obtained a Ph.D. from the University of Sydney, Australiain in 1983, and is a
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jingyuan_Xia.png">
 </div>
 
-<p class="post_flex_center_center" style="font-weight: bold">RJingyuan Xia, Special Adviser to the Director-General of FAO</p>
+<p class="post_flex_center_center" style="font-weight: bold">Jingyuan Xia, Special Adviser to the Director-General of FAO</p>
 
 <p style="text-align: justify;">
 Dr. Jingyuan Xia is currently a Special Adviser to the Director-General of the FAO. From 2019 to 2024, he was the Director of Plant Production and Protection Division (NSP) of the FAO. From 2015 to 2019, he was the Secretary to the International Plant Protection Convention (IPPC) at FAO Headquarters in Rome. Before joining the FAO, from 2012 to 2014, Mr. Xia served as Permanent Representative and Minister Plenipotentiary at the China Mission to the United Nations Agencies for Food and Agriculture in Rome. Between 2001 and 2011, he served as Director General and Extension Professor at the National Agro-Tech Extension and Service Center (NATESC) of the Ministry of Agriculture in Beijing. Mr Xia, holds a Doctor of Philosophy in Entomology from Wageningen University and Research Center in the Netherlands.
