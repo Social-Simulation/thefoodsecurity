@@ -54,6 +54,26 @@ categories:
 #### Opening Speakers (in alphabetical order)
 
 <div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Vinod_Ahuja.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Vinod Ahuja, FAO-China Representative</p>
+
+<p style="text-align: justify;">
+Dr. Vinod Ahuja is the FAO Representative in China, and previous FAO Representative in Mongolia where he focused on advancing the country’s agricultural development, food security, and livestock management. He holds a Ph.D. in agricultural economics from the University of Maryland, College Park, USA. He has written extensively on a broad range of topics including barriers to collective action, poverty and income distribution, commercialization of agricultural services, and food security and nutrition. He has supported a large number of field projects in Asia and promoted partnerships towards establishing new service delivery models based on genuine farmer needs. In March 2017, he was presented the Asian Dairy Personality Award by VIV Asia.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Felix_Dapare_Dakora.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Felix Dapare Dakora, Fellow of the African Academy of Sciences</p>
+
+<p style="text-align: justify;">
+Professor Felix Dapare Dakora is a Fellow of the African Academy of Sciences, Member of the Academy of Sciences of South Africa, Fellow of the Royal Society of South Africa, TWAS Fellow, and Foreign Fellow of the Chinese Academy of Engineering. He is Distinguished Professor at China Agricultural University, Distinguished Professor at Hebei Agricultural University, China, Adjunct Professor at Durban University of Technology, South Africa, and was Adjunct Professor at the University of Western Australia, (2012 – 2021). He obtained his PhD degree from the University of Western Australia, Perth, in 1989. He held a South African Research Chair in Agrochemurgy and Plant Symbioses at the Tshwane University of Technology, South Africa (2007-2021). He was President of the African Academy of Sciences (2017-2023).
+</p>
+
+<div class="post_flex_center_center">
 <img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Kazuki_KITAOKA.jpg">
 </div>
 
@@ -61,6 +81,36 @@ categories:
 
 <p style="text-align: justify;">
 Kazuki KITAOKA is the Global Coordinator of the World Food Forum at the Food and Agriculture Organization of the United Nations (FAO). In this context, he manages global youth engagement and empowerment to advance agrifood systems transformation for the achievement of the SDGs and a better food future for all. Prior to this position, he headed the Outreach, Marketing and Reporting Unit in FAO’s Resource Mobilization and Private Sector Partnerships Division (PSR) for several years. Before joining FAO, his career at the United Nations led Mr Kitaoka to numerous duty stations across Africa, Asia-Pacific and headquarter locations in Europe, where he held roles as programme manager, head of donor relations and head of strategic planning and coordination. He managed various strategic global initiatives, including on private sector in development in the context of the SDGs, and worked on major policies and programmes related to sustainability, growth, poverty reduction, gender equality, youth engagement, private sector development, the role of middle-income countries, development effectiveness and the global aid architecture. Previous to the UN, Mr Kitaoka worked in the financial industries in Japan and Switzerland, following his university degrees in economics and business in Switzerland, the United Kingdom and the United States.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Ravi_Singh.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Ravi Singh, Scientist at the International Maize and Wheat Improvement Center</p>
+
+<p style="text-align: justify;">
+He obtained a Ph.D. from the University of Sydney, Australiain in 1983, and is a distinguished scientist at the International Maize and Wheat Improvement Center (CIMMYT) and former head of the CIMMYT international wheat breeding and improvement team. He has long been engaged in wheat genetic breeding work and is committed to cultivating new wheat germplasm with high quality, high yield, disease resistance and wide adaptability by combining traditional breeding with modern molecular biology techniques. Together with other scientists, he has promoted more than 400 high-yield and rust-resistant wheat varieties around the world. These varieties are spread across 48 countries around the world. In 2015, he won the China Government Friendship Award and was elected as a fellow of the American Association for the Advancement of Science.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Jingyuan_Xia.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">RJingyuan Xia, Special Adviser to the Director-General of FAO</p>
+
+<p style="text-align: justify;">
+Dr. Jingyuan Xia is currently a Special Adviser to the Director-General of the FAO. From 2019 to 2024, he was the Director of Plant Production and Protection Division (NSP) of the FAO. From 2015 to 2019, he was the Secretary to the International Plant Protection Convention (IPPC) at FAO Headquarters in Rome. Before joining the FAO, from 2012 to 2014, Mr. Xia served as Permanent Representative and Minister Plenipotentiary at the China Mission to the United Nations Agencies for Food and Agriculture in Rome. Between 2001 and 2011, he served as Director General and Extension Professor at the National Agro-Tech Extension and Service Center (NATESC) of the Ministry of Agriculture in Beijing. Mr Xia, holds a Doctor of Philosophy in Entomology from Wageningen University and Research Center in the Netherlands.
+</p>
+
+<div class="post_flex_center_center">
+<img style="width: 100px;border-radius: 50%;border:1px solid #f3f3f1;margin-bottom: 12px;" src="/img/Guodao_Liu.png">
+</div>
+
+<p class="post_flex_center_center" style="font-weight: bold">Guodao Liu, Dean of the International Institute for Poverty Reduction</p>
+
+<p style="text-align: justify;">
+Former vice president of Chinese Academy of Tropical Agricultural Sciences. Currently, He serves as the dean of the International Institute for Poverty Reduction of Huazhong Agricultural University and the chairman of Chinese Society of Tropical Crops and an executive committee member of the Food and Agriculture Organization's Tropical Agriculture Platform (TAP). His research focuses on the development and utilization of tropical forage germplasm resources. He has won the China Youth Science and Technology Award, the Ho Leung Ho Lee Award for Regional Innovation, and the Outstanding Contribution Award of the  International Bioversity Center and CIAT Alliance. As the first completer, he has won the first prize of provincial and ministerial-level scientific and technological progress awards for eight times, and one special prize of Hainan Natural Science Award.
 </p>
 
 
