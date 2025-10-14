@@ -20,7 +20,7 @@ categories:
 
 <h4>Humanities and Social Sciences Building (HSSB), Huazhong Agricultural University, Wuhan, China</h4>
 
-|  **日期**   |   **时间**    |                    **活动**                     |           **地点**            |
+|  <div align="center">**Date**</div>   |   <div align="center">**Time**</div>    |                    <div align="center">**Content**</div>                     |           <div align="center">**Venue**</div>            |
 | :---------: | :-----------: | :---------------------------------------------: | :---------------------------: |
 | **Oct. 25** | 14:00 - 20:00 |                  Registration                   |        1st Floor IAEC         |
 | **Oct. 26** | 08:30 - 09:20 |                Opening Ceremony                 |  Lecture Hall 1st Floor IAEC  |
