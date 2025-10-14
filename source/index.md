@@ -9,8 +9,8 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide init">
                 <div class="inner">
-                    <a href="/events/2024">
-                        <figure><img src="./2024.jpg"></figure>
+                    <a href="/events/2025">
+                        <figure><img src="./2025.png"></figure>
                     </a>
                 </div>
             </div>
