@@ -6,7 +6,7 @@ categories:
 ---
 <h3><span class="like_a"><a onclick="_51Track('download', 'FS23')" href="https://wp-img.daozhao.com/thefoodsecurity/pdf/FS23.pdf" target="_blank">For the full program, please download here.</a></span></h3>
 
-![image.png](https://wp-img.daozhao.com/thefoodsecurity/FS32.jpg)
+![image.png](/img/FS32.jpg)
 
 #### Keynote Speaker (in alphabetical order)
 
