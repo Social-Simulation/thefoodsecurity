@@ -1,9 +1,10 @@
 ---
 date: 2024-05-12 22:37:01
 title: "Call"
+permalink: events/2024/call-for-papers-and-videos/
 categories:
   - events
-  - 2034
+  - Call for Papers and Short Videos
 ---
 
 <h1 style="text-align: center;">Call For Papers and Short Videos</h1>

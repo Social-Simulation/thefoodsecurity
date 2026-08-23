@@ -1,4 +1,6 @@
-<% if (page.layout === 'tags') { %>
+<% if (page.path && (page.path.indexOf('events/2023/rice-recipe') >= 0 || page.path.indexOf('events/2024/call-for-papers-and-videos') >= 0)) { %>
+    <%- partial('_pages/event-post') %>
+<% } else if (page.layout === 'tags') { %>
     <!-- ## Tags Cloud ## -->
     <%- partial('_pages/tagcloud') %>
 <% } else if (page.layout === 'links') { %>

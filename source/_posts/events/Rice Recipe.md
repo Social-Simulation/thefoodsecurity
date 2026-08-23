@@ -1,7 +1,8 @@
 ---
 date: 2023-11-25 15:15:01
 title: "2023 Rice Recipe"
-categories: [events, 2033]
+permalink: events/2023/rice-recipe/
+categories: [events, Rice Recipe]
 ---
 
 <div style="text-align: center;font-weight:bold;font-size:25px;">

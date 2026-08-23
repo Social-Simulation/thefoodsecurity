@@ -54,20 +54,11 @@
                             let key = categoryFullParent + '_' + year; 
                             let alias = theme['_' + key + '_alias']; 
 
-                            // 检查年份是否为2033
-                            if (year === '2033') {
-                                alias = '&nbsp;&nbsp;&nbsp; Rice Recipe'; // 将别名设置为"Rice Recipe"
-                            }
                             if (year === '2024') {
-                                alias = 'Forum 2024'; // 将别名设置为"Forum 2024"
+                                alias = 'Forum 2024';
                             }
-                            // 检查年份是否为2025
                             if (year === '2025') {
-                                alias = 'Forum 2025'; // 将别名设置为"Forum 2025"
-                            }
-                            // 检查年份是否为2034
-                            if (year === '2034') {
-                                alias = '&nbsp;&nbsp;&nbsp; Call for Papers and &nbsp;&nbsp;&nbsp;&nbsp;Videos'; // 将别名设置为" Call for Papers and Videos"
+                                alias = 'Forum 2025';
                             }
                         %>
                         <div class="category_year">
@@ -76,6 +67,16 @@
                                 <%- alias || (year === '2033' ? 'Rice Recipe' : year) %>
                              </a>                             
                         </div>
+                        <% if (year === '2024') { %>
+                        <div class="category_year category_year-child">
+                            <a href="/events/2024/call-for-papers-and-videos/" class="category_year-a">&nbsp;&nbsp;Call for Papers and Videos</a>
+                        </div>
+                        <% } %>
+                        <% if (year === '2023') { %>
+                        <div class="category_year category_year-child">
+                            <a href="/events/2023/rice-recipe/" class="category_year-a">&nbsp;&nbsp;Rice Recipe</a>
+                        </div>
+                        <% } %>
                         <% }); %>
                     </div>
                 </div>
