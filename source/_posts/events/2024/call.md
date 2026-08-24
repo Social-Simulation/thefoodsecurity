@@ -66,4 +66,4 @@ All papers should be submitted and presented in English. The format should follo
 
 GFSAYS Secretariat
 Email: fs@hzau.edu.cn
-Website：https://thefoodsecurity.org/events/2024/call/
+Website：https://thefoodsecurity.org/events/2024/
